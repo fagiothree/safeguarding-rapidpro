@@ -7,4 +7,5 @@ function helper() {
 export function scream() {
     console.log('aaaaaargh!');
     helper();
+    return HELP;
 }
