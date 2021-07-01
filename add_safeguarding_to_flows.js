@@ -10,15 +10,19 @@ import * as uuid from 'uuid';
 import * as path from "path";
 */
 
-var input_path = path.join(__dirname, "./output/safeguarding_malaysia.json");
-
-var json_string = fs.readFileSync(input_path).toString();
-var obj_keywords_by_cat = JSON.parse(json_string);
+//var input_path_kw = path.join(__dirname, "./output/safeguarding_malaysia.json");
+//var input_path_fl = "./input/plh-international-flavour_ABtesting.json";
 
 
-var input_path = "./input/plh-international-flavour_ABtesting.json";
-var json_string = fs.readFileSync(input_path).toString();
-var plh_flows = JSON.parse(json_string);
+let input_args = process.argv.slice(2);
+let input_path_kw = input_args[1];
+let input_path_fl = input_args[0];
+
+var json_string_kw = fs.readFileSync(input_path_kw).toString();
+var obj_keywords_by_cat = JSON.parse(json_string_kw);
+
+var json_string_fl = fs.readFileSync(input_path_fl).toString();
+var plh_flows = JSON.parse(json_string_fl);
 
 const sg_flow_uuid = "3aa013de-3b69-482c-bbc9-acd8d23bae55";
 const sg_flow_name = "PLH - Safeguarding - WFR interaction";
@@ -27,24 +31,39 @@ const sg_flow_name = "PLH - Safeguarding - WFR interaction";
 // create strings for case in wft nodes
 var sg_keywords_eng = "";
 var sg_keywords_transl = "";
+var sg_keywords_by_cat_eng = {};
+var sg_keywords_by_cat_transl = {};
+
 for (let cat in obj_keywords_by_cat) {
+    sg_keywords_cat_eng = "";
+    sg_keywords_cat_transl = "";
+
     obj_keywords_by_cat[cat].forEach(eng_transl_pair =>{
     
         eng_transl_pair["English"]["keywords"].forEach(wd => {
             sg_keywords_eng = sg_keywords_eng + wd + ",";
+            sg_keywords_cat_eng = sg_keywords_cat_eng + wd + ",";
         })
         eng_transl_pair["English"]["mispellings"].forEach(wd => {
             sg_keywords_eng = sg_keywords_eng + wd + ",";
+            sg_keywords_cat_eng = sg_keywords_cat_eng + wd + ",";
         })
         if (eng_transl_pair.hasOwnProperty("Translation")){
             eng_transl_pair["Translation"]["keywords"].forEach(wd => {
                 sg_keywords_transl = sg_keywords_transl + wd + ",";
+                sg_keywords_cat_transl = sg_keywords_cat_transl + wd + ",";
             })
             eng_transl_pair["Translation"]["mispellings"].forEach(wd => {
-                sg_keywords_transl = sg_keywords_transl + wd + ",";
+                sg_keywords_cat_transl = sg_keywords_cat_transl + wd + ",";
             })
         }
+
+
     })
+    sg_keywords_cat_eng = sg_keywords_cat_eng.slice(0, sg_keywords_cat_eng.length - 1);
+    sg_keywords_cat_transl = sg_keywords_cat_transl.slice(0, sg_keywords_cat_transl.length - 1);
+    sg_keywords_by_cat_eng[cat] =  sg_keywords_cat_eng;
+    sg_keywords_by_cat_transl[cat] =  sg_keywords_cat_transl;
     
 }
 sg_keywords_eng = sg_keywords_eng.slice(0, sg_keywords_eng.length - 1);
@@ -53,20 +72,46 @@ sg_keywords_transl = sg_keywords_transl.slice(0, sg_keywords_transl.length - 1);
 
 // add keywords to all safeguarding nodes
 plh_flows.flows.forEach(flow => {
-    console.log(flow.name)
     let wfr_nodes = flow.nodes.filter(node => (node.hasOwnProperty('router') && node.router.operand == "@input.text" && node.router.hasOwnProperty("wait")))
     wfr_nodes.forEach(node => process_wfr_node(node, flow, sg_keywords_eng));
 });
 
 
 // add keywords to redirect to topic flow
+let redirect_flow = plh_flows.flows.filter(fl => fl.name == "PLH - Safeguarding - Redirect to topic")
+if (redirect_flow.length != 1){
+    console.error("no redirect flow found");
+}
+redirect_flow = redirect_flow[0];
+
+let split_node = redirect_flow.nodes[0];
+split_node.router.cases.forEach(cs => {
+    let corresp_cat = split_node.router.categories.filter(cat => cat.uuid == cs.category_uuid)[0];
+    if (corresp_cat.name == "generic"){
+        cs.arguments = [sg_keywords_by_cat_eng["Generic (Police and Ambulance)"]];
+    } else if (corresp_cat.name == "mental health"){
+        cs.arguments = [sg_keywords_by_cat_eng["Mental Health"]];
+    }else if (corresp_cat.name == "health"){
+        cs.arguments = [sg_keywords_by_cat_eng["Health"]];
+    }else if (corresp_cat.name == "violence"){
+        cs.arguments = [sg_keywords_by_cat_eng["Violence"]];
+    }else if (corresp_cat.name == "natural disasters"){
+        cs.arguments = [sg_keywords_by_cat_eng["Natural Disasters"]];
+    } else {
+console.error("category name not recognised");
+    }
+})
+
+
 
 
 
 let new_flows = JSON.stringify(plh_flows, null, 2);
 
 
-var output_path = path.join(__dirname, "./output/flows_safeguarding.json");
+//var output_path = path.join(__dirname, "./output/flows_safeguarding.json");
+
+var output_path = input_args[2];
 fs.writeFile(output_path, new_flows, function (err, result) {
     if (err) console.log('error', err);
 });
