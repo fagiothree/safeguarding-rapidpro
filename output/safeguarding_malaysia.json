@@ -1,0 +1,1881 @@
+{
+    "Generic (Police and Ambulance)": [
+        {
+            "English": {
+                "keywords": [
+                    "kidnap",
+                    "kidnapping",
+                    "kidnapper",
+                    "kidnapped"
+                ],
+                "mispellings": [
+                    "kiddnapp",
+                    "kidnapp",
+                    "kiddnap",
+                    "kidnape"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "penculikan",
+                    "menculik",
+                    "penculik",
+                    "diculik"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "death",
+                    "dead",
+                    "dying"
+                ],
+                "mispellings": [
+                    "deeath",
+                    "deat"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kematian",
+                    "mati",
+                    "hampir mati",
+                    "maut"
+                ],
+                "mispellings": [
+                    "kematian"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "illegal"
+                ],
+                "mispellings": [
+                    "ilegal",
+                    "ellegal",
+                    "ileagaly"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tidak sah"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "poision",
+                    "poisioning",
+                    "poisioned"
+                ],
+                "mispellings": [
+                    "pesian",
+                    "boisoned"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "racun",
+                    "meracun",
+                    "diracun"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "crisis",
+                    "crises"
+                ],
+                "mispellings": [
+                    "krisis",
+                    "krises"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "krisis"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "trouble",
+                    "troubling",
+                    "troublesome",
+                    "troubled"
+                ],
+                "mispellings": [
+                    "troubl",
+                    "trevel",
+                    "trubl"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "susah",
+                    "menyusahkan",
+                    "kesusahan",
+                    "disusahkan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "victim",
+                    "victimised"
+                ],
+                "mispellings": [
+                    "victm",
+                    "victimized",
+                    "victem"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mangsa",
+                    "menjadi mangsa"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "emergency",
+                    "911"
+                ],
+                "mispellings": [
+                    "emergincy",
+                    "emergincey",
+                    "emergince"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kecemasan",
+                    "cemas"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "danger",
+                    "dangerous",
+                    "endangered"
+                ],
+                "mispellings": [
+                    "dangeur",
+                    "dangeer",
+                    "dangre"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bahaya",
+                    "berbahaya",
+                    "membahayakan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stalking"
+                ],
+                "mispellings": [
+                    "staling",
+                    "staking",
+                    "stakling",
+                    "stalkin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mengendap",
+                    "mengintai",
+                    "mengejar"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "follow",
+                    "following",
+                    "followed"
+                ],
+                "mispellings": [
+                    "folow",
+                    "folowed",
+                    "followin",
+                    "folowin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ikut",
+                    "mengikut",
+                    "diikut"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "suffer",
+                    "suffering",
+                    "suffered"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "merana",
+                    "menderita",
+                    "telah merana",
+                    "sengsara"
+                ],
+                "mispellings": [
+                    "azab"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hide",
+                    "hiding",
+                    "hid"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "menyorok",
+                    "bersembunyi",
+                    "menghilang"
+                ],
+                "mispellings": []
+            }
+        }
+    ],
+    "Health": [
+        {
+            "English": {
+                "keywords": [
+                    "vomit",
+                    "vomitted",
+                    "vomitting"
+                ],
+                "mispellings": [
+                    "yak",
+                    "vomited",
+                    "womit"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "muntah",
+                    "loya",
+                    "mual",
+                    "termuntah"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "puke",
+                    "puking",
+                    "puked"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "mual",
+                    "loya",
+                    "muntah"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "disease",
+                    "STD",
+                    "diseases"
+                ],
+                "mispellings": [
+                    "diseaze",
+                    "dizeese",
+                    "SDT"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "penyakit"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sick",
+                    "sickness",
+                    "sickly"
+                ],
+                "mispellings": [
+                    "sik",
+                    "seck"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sakit",
+                    "penyakit",
+                    "sakit",
+                    "kesakitan"
+                ],
+                "mispellings": [
+                    "berpenyakit"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ill",
+                    "illness",
+                    "illnesses"
+                ],
+                "mispellings": [
+                    "illl",
+                    "illniss",
+                    "illnees"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sakit",
+                    "penyakit",
+                    "kesakitan",
+                    "berpenyakit"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "health",
+                    "healthy"
+                ],
+                "mispellings": [
+                    "haelth",
+                    "healthy",
+                    "helath"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kesihatan",
+                    "sihat"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hospital",
+                    "clinic"
+                ],
+                "mispellings": [
+                    "hopital",
+                    "hopsital"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hospital",
+                    "klinik"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "miscarriage",
+                    "miscarry"
+                ],
+                "mispellings": [
+                    "miscariage",
+                    "miscarig"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "keguguran",
+                    "keguguran",
+                    "gugur",
+                    "menggugurkan kandungan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pregnant",
+                    "pregnancy",
+                    "expecting"
+                ],
+                "mispellings": [
+                    "pegant",
+                    "preganci",
+                    "prengant"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hamil",
+                    "kehamilan",
+                    "mengandung",
+                    "bunting"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "abortion",
+                    "abort",
+                    "aborted",
+                    "aborting"
+                ],
+                "mispellings": [
+                    "abbortion",
+                    "obortion"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gugur",
+                    "menggugurkan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "COVID",
+                    "COVID19",
+                    "COVID-19"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "COVID",
+                    "COVID19",
+                    "COVID-19"
+                ],
+                "mispellings": []
+            }
+        }
+    ],
+    "Mental Health": [
+        {
+            "English": {
+                "keywords": [
+                    "anxiety",
+                    "anxious",
+                    "anxiousness"
+                ],
+                "mispellings": [
+                    "angziaty",
+                    "anxieti",
+                    "anxeity"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "cemas"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "despression",
+                    "despressive",
+                    "depressed"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "kemurungan",
+                    "murung",
+                    "tertekan",
+                    "tekanan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "disorder",
+                    "disorders"
+                ],
+                "mispellings": [
+                    "dizorder",
+                    "dissorder",
+                    "isorder"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kecelaruan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "therapy"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "terapi",
+                    "kaunseling"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "psychologist"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "ahli psikologi"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "suicide",
+                    "suicidal",
+                    "suicides"
+                ],
+                "mispellings": [
+                    "suicido",
+                    "suiced"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bunuh diri",
+                    "niat bunuh diri"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stress",
+                    "stressed"
+                ],
+                "mispellings": [
+                    "stresss",
+                    "strees",
+                    "srtess"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "stres",
+                    "tertekan",
+                    "tekanan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "distress",
+                    "distressed"
+                ],
+                "mispellings": [
+                    "destressed",
+                    "destresss"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kedukaan",
+                    "derita",
+                    "menderita",
+                    "berduka cita"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sad",
+                    "saddened"
+                ],
+                "mispellings": [
+                    "sadd",
+                    "saddenned",
+                    "sadend"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sedih",
+                    "sayu",
+                    "berduka"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "scare",
+                    "scared"
+                ],
+                "mispellings": [
+                    "csared",
+                    "csare"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "takut",
+                    "bimbang",
+                    "risau"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "afraid"
+                ],
+                "mispellings": [
+                    "afaid"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "takut",
+                    "risau",
+                    "bimbang"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "worried"
+                ],
+                "mispellings": [
+                    "woried"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "risau",
+                    "bimbang"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "fear",
+                    "frighten"
+                ],
+                "mispellings": [
+                    "fer",
+                    "fire"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "takut",
+                    "cemas",
+                    "risau"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "panic",
+                    "panicking",
+                    "panicked"
+                ],
+                "mispellings": [
+                    "panik",
+                    "paniked",
+                    "paniking"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "panik",
+                    "risau",
+                    "cemas"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "mad"
+                ],
+                "mispellings": [
+                    "md",
+                    "made"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gila",
+                    "berkecamuk",
+                    "amuk"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "greif"
+                ],
+                "mispellings": [
+                    "grief",
+                    "griev"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sedih",
+                    "muram durja",
+                    "pilu",
+                    "duka cita"
+                ],
+                "mispellings": []
+            }
+        }
+    ],
+    "Natural Disasters": [
+        {
+            "English": {
+                "keywords": [
+                    "fire",
+                    "wildfire"
+                ],
+                "mispellings": [
+                    "blaze",
+                    "burnt",
+                    "hot",
+                    "fir"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "api",
+                    "api liar",
+                    "bakar",
+                    "terbakar"
+                ],
+                "mispellings": [
+                    "kebakaran"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "earthquake",
+                    "Landslide",
+                    "collapse"
+                ],
+                "mispellings": [
+                    "shake",
+                    "irthquake",
+                    "earthquak",
+                    "fall"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gempa bumi",
+                    "tanah longsor",
+                    "tanah runtuh"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "flood",
+                    "flooded",
+                    "flooding",
+                    "monsoon"
+                ],
+                "mispellings": [
+                    "flud",
+                    "flod",
+                    "munson"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "banjir",
+                    "banjir",
+                    "tenggelam"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "smoke",
+                    "smoked"
+                ],
+                "mispellings": [
+                    "smooke",
+                    "smok"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "asap",
+                    "berasap"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "typhoon",
+                    "hurricane",
+                    "tornado",
+                    "cyclone"
+                ],
+                "mispellings": [
+                    "storm",
+                    "rain",
+                    "water",
+                    "stormy"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "taufan",
+                    "puting beliung",
+                    "ribut",
+                    "ribut taufan"
+                ],
+                "mispellings": [
+                    "hujan ribut",
+                    "hujan"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "droughts",
+                    "dry",
+                    "aridity"
+                ],
+                "mispellings": [
+                    "dri"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kemarau",
+                    "kering",
+                    "kering kontang"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "volcanic eruption",
+                    "volcano"
+                ],
+                "mispellings": [
+                    "fire",
+                    "hot"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "letupan gunung berapi",
+                    "gunung berapi"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "wind",
+                    "blast",
+                    "windy"
+                ],
+                "mispellings": [
+                    "air"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "angin",
+                    "letupan",
+                    "berangin"
+                ],
+                "mispellings": []
+            }
+        }
+    ],
+    "Violence": [
+        {
+            "English": {
+                "keywords": [
+                    "hit",
+                    "hitting",
+                    "hits"
+                ],
+                "mispellings": [
+                    "hitt",
+                    "hitin",
+                    "hittin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tumbuk",
+                    "menumbuk",
+                    "pukul"
+                ],
+                "mispellings": [
+                    "memukul",
+                    "belasah"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "beat",
+                    "beating",
+                    "beats"
+                ],
+                "mispellings": [
+                    "beetin",
+                    "beeting",
+                    "beets",
+                    "bet"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "pukul",
+                    "tumbuk",
+                    "belasah"
+                ],
+                "mispellings": [
+                    "membelasah",
+                    "menghentam",
+                    "memukul",
+                    "menumbuk"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "abuse",
+                    "abusive",
+                    "abusing",
+                    "Abused"
+                ],
+                "mispellings": [
+                    "abuzin",
+                    "abuz",
+                    "buse"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mendera",
+                    "menganiaya",
+                    "dera",
+                    "aniaya"
+                ],
+                "mispellings": [
+                    "caci",
+                    "maki"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "violent",
+                    "violence"
+                ],
+                "mispellings": [
+                    "violnce",
+                    "vilent"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ganas",
+                    "kasar",
+                    "kejam",
+                    "mengasari"
+                ],
+                "mispellings": [
+                    "memukul",
+                    "zalim"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pain",
+                    "painful",
+                    "pains",
+                    "paining"
+                ],
+                "mispellings": [
+                    "pen",
+                    "poen"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sakit",
+                    "menyakitkan",
+                    "azab",
+                    "siksa"
+                ],
+                "mispellings": [
+                    "pedih"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blood",
+                    "bleeding",
+                    "bled"
+                ],
+                "mispellings": [
+                    "blud",
+                    "bleding",
+                    "bleedding"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "darah",
+                    "pendarahan",
+                    "berdarah"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "bruise",
+                    "bruising",
+                    "bruised"
+                ],
+                "mispellings": [
+                    "brusing",
+                    "brused",
+                    "broosed"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "lebam",
+                    "lebam",
+                    "lebam",
+                    "bertanda"
+                ],
+                "mispellings": [
+                    "bertanda"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hurt",
+                    "hurting",
+                    "hurts"
+                ],
+                "mispellings": [
+                    "hurted",
+                    "hurrt"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "cedera",
+                    "mencederakan",
+                    "luka",
+                    "sakit"
+                ],
+                "mispellings": [
+                    "pedih"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ache",
+                    "aching",
+                    "ached"
+                ],
+                "mispellings": [
+                    "acked"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sakit",
+                    "kesakitan",
+                    "disakiti",
+                    "pedih"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "injury",
+                    "injured"
+                ],
+                "mispellings": [
+                    "inguries"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kecederaan",
+                    "cedera",
+                    "tercedera"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cut",
+                    "cutting",
+                    "dicederakan/"
+                ],
+                "mispellings": [
+                    "cutt"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "luka",
+                    "melukakan",
+                    "terluka",
+                    "terkoyak"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "harm",
+                    "harming",
+                    "harmful",
+                    "harmed"
+                ],
+                "mispellings": [
+                    "harrm",
+                    "harme",
+                    "haarm",
+                    "harmng"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mudarat",
+                    "memudaratkan",
+                    "berbahaya",
+                    "dicederakan"
+                ],
+                "mispellings": [
+                    "disakiti"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "slap",
+                    "slapped",
+                    "slapping"
+                ],
+                "mispellings": [
+                    "slip",
+                    "slappping",
+                    "slaped",
+                    "slape"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tampar",
+                    "ditempeleng",
+                    "menampar",
+                    "tempeleng"
+                ],
+                "mispellings": [
+                    "menempeleng",
+                    "lempang",
+                    "dilempang"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "punch",
+                    "punched",
+                    "punching",
+                    "punches"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "tumbuk",
+                    "ditumbuk",
+                    "menumbuk",
+                    "tumbukan"
+                ],
+                "mispellings": [
+                    "pukul",
+                    "pukulan",
+                    "hentaman"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "kill",
+                    "killing",
+                    "killed",
+                    "kills"
+                ],
+                "mispellings": [
+                    "cill",
+                    "cills",
+                    "kilin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bunuh",
+                    "bunuh",
+                    "membunuh",
+                    "mati"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "murder",
+                    "murderer",
+                    "murdering",
+                    "murdered"
+                ],
+                "mispellings": [
+                    "merdered",
+                    "murd",
+                    "mrdered"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "pembunuhan",
+                    "pembunuh",
+                    "membunuh",
+                    "dibunuh"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "bang",
+                    "banging",
+                    "banged"
+                ],
+                "mispellings": [
+                    "baning",
+                    "bangin",
+                    "pang"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "pukulan/hentaman",
+                    "hentakan",
+                    "hantukan",
+                    "hentam"
+                ],
+                "mispellings": [
+                    "hentaman"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blow"
+                ],
+                "mispellings": [
+                    "below",
+                    "blo",
+                    "bow"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "pukulan",
+                    "tumbukan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cane"
+                ],
+                "mispellings": [
+                    "stick",
+                    "can"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "rotan",
+                    "kayu"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "belt"
+                ],
+                "mispellings": [
+                    "girdle",
+                    "strap"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tali pinggang",
+                    "tali"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stab",
+                    "stabbing",
+                    "stabbed"
+                ],
+                "mispellings": [
+                    "sabbed",
+                    "satb",
+                    "stabing"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tikam",
+                    "menikam",
+                    "tikaman",
+                    "tusukan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "scream",
+                    "screaming",
+                    "screamed"
+                ],
+                "mispellings": [
+                    "screem",
+                    "creamed",
+                    "screemed"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "menjerit",
+                    "jeritan",
+                    "memekik",
+                    "berteriak"
+                ],
+                "mispellings": [
+                    "bertempik"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "push",
+                    "pushing",
+                    "pushed"
+                ],
+                "mispellings": [
+                    "puss",
+                    "pusing"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tolak",
+                    "menolak",
+                    "desak",
+                    "mendesak"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "shove",
+                    "shoving",
+                    "shoved"
+                ],
+                "mispellings": [
+                    "shoove",
+                    "shooved",
+                    "shov"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "menolak",
+                    "mengasak",
+                    "menyiku"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "kick",
+                    "kicking",
+                    "kicked"
+                ],
+                "mispellings": [
+                    "kiked",
+                    "kik",
+                    "kickin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tendang",
+                    "menendang",
+                    "sepak",
+                    "menyepak"
+                ],
+                "mispellings": [
+                    "terajang",
+                    "menerajang"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "strike",
+                    "striking",
+                    "stricked"
+                ],
+                "mispellings": [
+                    "strikd",
+                    "strik",
+                    "stricke"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "serang",
+                    "menyerang",
+                    "pukul",
+                    "memukul"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "torture",
+                    "tortured"
+                ],
+                "mispellings": [
+                    "tortue",
+                    "tortued",
+                    "torured"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "siksa",
+                    "menyiksa",
+                    "siksaan",
+                    "disiksa"
+                ],
+                "mispellings": [
+                    "tersiksa",
+                    "siksa",
+                    "penyiksaan"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "throw",
+                    "throwing",
+                    "throws"
+                ],
+                "mispellings": [
+                    "trow",
+                    "trowing",
+                    "trows"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "baling",
+                    "membaling",
+                    "lontar",
+                    "melontar"
+                ],
+                "mispellings": [
+                    "lempar",
+                    "melempar",
+                    "balingan"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "Rape",
+                    "raping",
+                    "rapist"
+                ],
+                "mispellings": [
+                    "rapeing",
+                    "rapping",
+                    "raipe",
+                    "rap"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "rogol",
+                    "merogol",
+                    "perogol"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "violate",
+                    "violation",
+                    "violated"
+                ],
+                "mispellings": [
+                    "violat",
+                    "vilate",
+                    "volated"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mencabul",
+                    "pencabulan",
+                    "dicabuli"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sex",
+                    "sexual",
+                    "sexually",
+                    "sext"
+                ],
+                "mispellings": [
+                    "sexting",
+                    "xxx",
+                    "ex"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "seks",
+                    "seksual",
+                    "secara seksual"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "force",
+                    "forced",
+                    "forcing"
+                ],
+                "mispellings": [
+                    "forc",
+                    "forcin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "paksa",
+                    "dipaksa",
+                    "memaksa",
+                    "kekerasan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pressure",
+                    "pressured",
+                    "pressuring"
+                ],
+                "mispellings": [
+                    "perssure",
+                    "perssured",
+                    "presssure"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tekanan",
+                    "tertekan",
+                    "memberi tekanan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "coercive",
+                    "coerce",
+                    "coerced"
+                ],
+                "mispellings": [
+                    "coersive",
+                    "corrisive"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "paksa",
+                    "memaksa",
+                    "dipaksa",
+                    "paksaan"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "misconduct",
+                    "inappropriate",
+                    "unacceptable"
+                ],
+                "mispellings": [
+                    "miscund",
+                    "inappropiate"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "salah laku",
+                    "tidak sesuai",
+                    "tidak boleh diterima"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "harassment",
+                    "stalking",
+                    "perpetration"
+                ],
+                "mispellings": [
+                    "stolk"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gangguan",
+                    "menghendap",
+                    "melakukan jenayah",
+                    "keganasan"
+                ],
+                "mispellings": [
+                    "penjahat",
+                    "penjenayah",
+                    "kejahatan"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blame",
+                    "blaming"
+                ],
+                "mispellings": [
+                    "blam"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tuduh",
+                    "menyalahkan",
+                    "menuduh"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "Threat",
+                    "threaten"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "menakutkan",
+                    "menakutkan",
+                    "ugutan",
+                    "mengugut"
+                ],
+                "mispellings": [
+                    "memeras"
+                ]
+            }
+        }
+    ]
+}
