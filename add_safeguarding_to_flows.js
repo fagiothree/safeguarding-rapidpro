@@ -75,6 +75,7 @@ sg_keywords_transl = sg_keywords_transl.slice(0, sg_keywords_transl.length - 1);
 
 // add keywords to all safeguarding nodes
 plh_flows.flows.forEach(flow => {
+	console.log(flow.name)
     let wfr_nodes = flow.nodes.filter(node => (node.hasOwnProperty('router') && node.router.operand == "@input.text" && node.router.hasOwnProperty("wait")))
     wfr_nodes.forEach(node => process_wfr_node(node, flow, sg_keywords_eng, sg_keywords_transl, lang_code));
 });
@@ -101,7 +102,7 @@ if (lang_code != "eng"){
 
 split_node.router.cases.forEach(cs => {
     let corresp_cat = split_node.router.categories.filter(cat => cat.uuid == cs.category_uuid)[0];
-    console.log(corresp_cat.name)
+    //console.log(corresp_cat.name)
     if (corresp_cat.name == "generic"){
         cs.arguments = [sg_keywords_by_cat_eng["Generic (Police and Ambulance)"]];
         if (lang_code != "eng"){
@@ -177,7 +178,9 @@ fs.writeFile(output_path, new_flows, function (err, result) {
 function process_wfr_node(node, flow, sg_keywords_eng, sg_keywords_transl, lang_code) {
 
     // position of the wfr node
-    let node_position = flow._ui.nodes[node.uuid].position;
+    if (flow.hasOwnProperty("_ui") && flow._ui.nodes.hasOwnProperty(node.uuid)){
+        var node_position = flow._ui.nodes[node.uuid].position;
+    } 
 
     // uuid of the send_message node parent of the wfr node
     let send_msg_uuid = get_send_msg_parent_uuid(flow, node.uuid)
@@ -199,20 +202,23 @@ function process_wfr_node(node, flow, sg_keywords_eng, sg_keywords_transl, lang_
 
 
     // position nodes far on the right in the _ui
-    flow._ui.nodes[enter_flow_node.uuid] = {
-        position: {
-            left: node_position.left + 2000,
-            top: node_position.top
-        },
-        type: "split_by_subflow"
-    };
-    flow._ui.nodes[split_by_result_node.uuid] = {
-        position: {
-            left: node_position.left + 2000,
-            top: node_position.top + 160
-        },
-        type: "split_by_expression"
-    };
+    if (flow.hasOwnProperty("_ui")){
+        flow._ui.nodes[enter_flow_node.uuid] = {
+            position: {
+                left: node_position.left + 2000,
+                top: node_position.top
+            },
+            type: "split_by_subflow"
+        };
+        flow._ui.nodes[split_by_result_node.uuid] = {
+            position: {
+                left: node_position.left + 2000,
+                top: node_position.top + 160
+            },
+            type: "split_by_expression"
+        };
+    }
+    
 
 
 }
