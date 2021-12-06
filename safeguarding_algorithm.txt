@@ -1,0 +1,61 @@
+get_send_msg_parent_uuid
+
+find all th eparent nodes:
+1 parent_nodes.length == 0 --> return null
+2 parent_nodes.length == 1
+    2.1 parent = send_msg --> OK return parent
+    2.2 parent != send_msg --> ERROR????
+3 parent_nodes.length > 1 --> find all parents of parents (grandparent_nodes)
+    3.1 all the nodes have the same grandparent (and only one) --> OK return grandparent
+    3.2 the grandparents are different
+        3.2.1 all the parent nodes are of type send_msg
+              --> return the first one or the "sorry I don't understand" if present ????
+
+        3.2.2 the parent nodes are of mixed types
+              --> for all the parents that are not of send_msf type
+                  find the first parent --> mixed generation nodes
+                  3.2.2.1 all the mixed generation nodes are of type send_msg
+                          --> return the first one or the "sorry I don't understand" if present ????
+                  3.2.2.2 mixed types
+                          --> ERROR ???
+
+
+
+
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Behave - Consequences
+273056cf-0876-4d66-9c87-e5a3427b24fd
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Behave - Crying
+744e7ec5-61a5-4c5c-9242-aa1167d61cda
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Behave - Emotion
+ccb93138-3afe-48f2-8e34-f7846afcc524
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Behave - Ignore
+dc749cad-d032-41fe-900a-a696053b8d7d
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Online adults
+22625555-6e96-4051-b8a9-1d66fb6abab6
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Book sharing
+afaf3aef-e17d-4358-9d96-1a926f61d4a0
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Behave - Routines
+0a3b643d-9e55-425b-8612-0da9b2069fc5
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Online children
+bddc419a-8a53-407a-9364-6cf489354ce8
+----------------------------------------------
+OTHER CASE
+PLH - Content - Positive - Safe or unsafe touch
+3e4b2de9-1fb6-4d76-b6b7-6ed615ae0010
+added safeguarding
