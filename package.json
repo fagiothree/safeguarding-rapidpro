@@ -1,0 +1,24 @@
+{
+  "name": "safeguarding-rapidpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istride/safeguarding-rapidpro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/istride/safeguarding-rapidpro/issues"
+  },
+  "homepage": "https://github.com/istride/safeguarding-rapidpro#readme",
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
+}
