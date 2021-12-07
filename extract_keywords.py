@@ -1,12 +1,12 @@
 import json
 import openpyxl
 
-MATCHING_STRING = "Please insert transaltion of each word under each corresponding cell. If the particular word does not translate into the chosen language, please leave it blank"
+MATCHING_STRING = "Please insert translation of each word under each corresponding cell. If the particular word does not translate into the chosen language, please leave it blank"
 HEADER1 = "High-risk key words"
 HEADER2 = "Range of possible misspellings and common slang used by the population"
 # Replace the filename equal to the new file name needed to process.
 #FILENAME = "finalHigh-risk Keywords- Safeguarding_20210608JML.xlsx"
-FILENAME = ".\input\safeguarding_malaysia.xlsx"
+FILENAME = "./keywords/keywords_excel/south_africa/zul_mod.xlsx"
 
 def read_entries_from_range(xmin, xmax, row1, row2):
 	entries = []
@@ -101,6 +101,6 @@ for sheet in book.worksheets:
 	all_tables[sheet.title] = table_content
 
 #Always change the output name when processing new xlsx file to avoid overwritting.
-with open(".\output\safeguarding_malaysia.json", "w") as outfile:
+with open("./keywords/keywords_json/south_africa/zul_safeguarding.json", "w") as outfile:
 	json.dump(all_tables, outfile, indent=4)
 

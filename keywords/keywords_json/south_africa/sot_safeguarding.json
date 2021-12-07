@@ -1,0 +1,1809 @@
+{
+    "Generic (Police and Ambulance)": [
+        {
+            "English": {
+                "keywords": [
+                    "kidnap",
+                    "kidnapping",
+                    "kidnapper",
+                    "kidnapped"
+                ],
+                "mispellings": [
+                    "kiddnapp",
+                    "kidnapp",
+                    "kiddnap",
+                    "kidnape"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "koetela",
+                    "ho koetela",
+                    "mokoetli",
+                    "koeteloa"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "death",
+                    "dead",
+                    "dying"
+                ],
+                "mispellings": [
+                    "deeath",
+                    "deat"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "lefu",
+                    "hlokahala",
+                    "ho shoa/ ho hlokahala"
+                ],
+                "mispellings": [
+                    "ho shoa"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "illegal"
+                ],
+                "mispellings": [
+                    "ilegal",
+                    "ellegal",
+                    "ileagaly"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "e seng molaong"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "poision",
+                    "poisioning",
+                    "poisioned"
+                ],
+                "mispellings": [
+                    "pesian",
+                    "boisoned"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "chefo",
+                    "chefo"
+                ],
+                "mispellings": [
+                    "poisen"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "crisis",
+                    "crises"
+                ],
+                "mispellings": [
+                    "krisis",
+                    "krises"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tsietsi",
+                    "li tsietsi"
+                ],
+                "mispellings": [
+                    "mathata"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "trouble",
+                    "troubling",
+                    "troublesome",
+                    "troubled"
+                ],
+                "mispellings": [
+                    "troubl",
+                    "trevel",
+                    "trubl"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bothata",
+                    "tshoenyang",
+                    "khathatso",
+                    "khathatsehile"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "victim",
+                    "victimised"
+                ],
+                "mispellings": [
+                    "victm",
+                    "victimized",
+                    "victem"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "phofu",
+                    "hlasetsoe"
+                ],
+                "mispellings": [
+                    "victhimi"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "emergency",
+                    "SOS",
+                    "911"
+                ],
+                "mispellings": [
+                    "emergincy",
+                    "emergincey",
+                    "emergince"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tshohanyetso",
+                    "911"
+                ],
+                "mispellings": [
+                    "emegenci"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "danger",
+                    "dangerous",
+                    "endangered"
+                ],
+                "mispellings": [
+                    "dangeur",
+                    "dangeer",
+                    "dangre"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kotsi",
+                    "kotsi",
+                    "kotsing"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stalking"
+                ],
+                "mispellings": [
+                    "staling",
+                    "staking",
+                    "stakling",
+                    "stalkin"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "follow",
+                    "following",
+                    "followed"
+                ],
+                "mispellings": [
+                    "folow",
+                    "folowed",
+                    "followin",
+                    "folowin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "latela",
+                    "lateloa"
+                ],
+                "mispellings": [
+                    "ntatela"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "suffer",
+                    "suffering",
+                    "suffered"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "sotleha",
+                    "sotleha",
+                    "sotlehile"
+                ],
+                "mispellings": [
+                    "sokola"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hide",
+                    "hiding",
+                    "hid"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "pata",
+                    "ho ipata",
+                    "patiloe"
+                ],
+                "mispellings": [
+                    "fihla"
+                ]
+            }
+        }
+    ],
+    "Health": [
+        {
+            "English": {
+                "keywords": [
+                    "vomit",
+                    "vomitted",
+                    "vomitting"
+                ],
+                "mispellings": [
+                    "yak",
+                    "vomited",
+                    "womit"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hlatsa",
+                    "hlatsitse",
+                    "ho hlatsa"
+                ],
+                "mispellings": [
+                    "hlalitse"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "puke",
+                    "puking",
+                    "puked"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "mahlatsa"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "disease",
+                    "STD",
+                    "diseases"
+                ],
+                "mispellings": [
+                    "diseaze",
+                    "dizeese",
+                    "SDT"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "lefu",
+                    "STD",
+                    "mafu"
+                ],
+                "mispellings": [
+                    "ho kula"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sick",
+                    "sickness",
+                    "sickly"
+                ],
+                "mispellings": [
+                    "sik",
+                    "seck"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kula",
+                    "ho kula"
+                ],
+                "mispellings": [
+                    "sik"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ill",
+                    "illness",
+                    "illnesses"
+                ],
+                "mispellings": [
+                    "illl",
+                    "illniss",
+                    "illnees"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kula",
+                    "bokuli"
+                ],
+                "mispellings": [
+                    "bokudi"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "health",
+                    "healthy"
+                ],
+                "mispellings": [
+                    "haelth",
+                    "healthy",
+                    "helath"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bophelo bo botle"
+                ],
+                "mispellings": [
+                    "bophelo"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hospital",
+                    "clinic"
+                ],
+                "mispellings": [
+                    "hopital",
+                    "hopsital"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sepetlele",
+                    "tleniki"
+                ],
+                "mispellings": [
+                    "tliniki"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "miscarriage",
+                    "miscarry"
+                ],
+                "mispellings": [
+                    "miscariage",
+                    "miscarig"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ho senyeheloa ke mpa"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pregnant",
+                    "pregnancy",
+                    "expecting"
+                ],
+                "mispellings": [
+                    "pegant",
+                    "preganci",
+                    "prengant"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ho ima",
+                    "boimana"
+                ],
+                "mispellings": [
+                    "o meleng",
+                    "pregnanci"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "abortion",
+                    "abort",
+                    "abortted",
+                    "aborting"
+                ],
+                "mispellings": [
+                    "abbortion",
+                    "obortion"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ho ntsha mpa",
+                    "ntsa mpa",
+                    "ntsa mpa"
+                ],
+                "mispellings": [
+                    "aboshini"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "COVID",
+                    "COVID19",
+                    "COVID-19"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "COVID",
+                    "COVID19",
+                    "COVID-19"
+                ],
+                "mispellings": [
+                    "COVIT"
+                ]
+            }
+        }
+    ],
+    "Mental Health": [
+        {
+            "English": {
+                "keywords": [
+                    "anxiety",
+                    "anxious",
+                    "anxiousness"
+                ],
+                "mispellings": [
+                    "angziaty",
+                    "anxieti",
+                    "anxeity"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "matsoenyeho",
+                    "tsoenyehile",
+                    "matsoenyeho"
+                ],
+                "mispellings": [
+                    "Anzieti",
+                    "anxieti",
+                    "tshohile"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "despression",
+                    "despressive",
+                    "depressed"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "khatello ea maikutlo",
+                    "tepelletse maikutlong"
+                ],
+                "mispellings": [
+                    "depreshini"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "disorder",
+                    "disorders"
+                ],
+                "mispellings": [
+                    "dizorder",
+                    "dissorder",
+                    "isorder"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "pherekano"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "therapy"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "kalafo"
+                ],
+                "mispellings": [
+                    "phekolo"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "psychologist"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "saekholojist",
+                    "setsebi sa kelello"
+                ],
+                "mispellings": [
+                    "ngaka ea kellelo"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "suicide",
+                    "suicidal",
+                    "suicides"
+                ],
+                "mispellings": [
+                    "suicido",
+                    "suiced"
+                ]
+            },
+            "Translation": {
+                "keywords": [],
+                "mispellings": [
+                    "ho ipolaya"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stress",
+                    "stressed"
+                ],
+                "mispellings": [
+                    "stresss",
+                    "strees",
+                    "srtess"
+                ]
+            },
+            "Translation": {
+                "keywords": [],
+                "mispellings": [
+                    "setresse"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "distress",
+                    "distressed"
+                ],
+                "mispellings": [
+                    "destressed",
+                    "destresss"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mahlomola",
+                    "tsielehile"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sad",
+                    "saddened"
+                ],
+                "mispellings": [
+                    "sadd",
+                    "saddenned",
+                    "sadend"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hloname",
+                    "hlomohile"
+                ],
+                "mispellings": [
+                    "kwatile",
+                    "utloa bohloko"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "scare",
+                    "scared"
+                ],
+                "mispellings": [
+                    "csared",
+                    "csare"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tshosa",
+                    "tshohile"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "afraid"
+                ],
+                "mispellings": [
+                    "afaid"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tshoha"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "worried"
+                ],
+                "mispellings": [
+                    "woried"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tsoenyehile"
+                ],
+                "mispellings": [
+                    "kgathatsehile"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "fear",
+                    "frighten"
+                ],
+                "mispellings": [
+                    "fer",
+                    "fire"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "letshoho",
+                    "tshosa"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "panic",
+                    "panicking",
+                    "panicked"
+                ],
+                "mispellings": [
+                    "panik",
+                    "paniked",
+                    "paniking"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tshabo",
+                    "ho tshoha",
+                    "tshohile"
+                ],
+                "mispellings": [
+                    "tshoha"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "mad"
+                ],
+                "mispellings": [
+                    "md",
+                    "made"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ho sa phela",
+                    "kwata"
+                ],
+                "mispellings": [
+                    "hlanya"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "greif"
+                ],
+                "mispellings": [
+                    "grief",
+                    "griev"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mesarolo"
+                ],
+                "mispellings": []
+            }
+        }
+    ],
+    "Natural Disasters": [
+        {
+            "English": {
+                "keywords": [
+                    "fire",
+                    "wildfire"
+                ],
+                "mispellings": [
+                    "blaze",
+                    "burnt",
+                    "hot",
+                    "fir"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mollo",
+                    "mollo o hlaha"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "earthquake",
+                    "Landslide",
+                    "collapse"
+                ],
+                "mispellings": [
+                    "shake",
+                    "irthquake",
+                    "earthquak",
+                    "fall"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tshisinyeho ea lefatshe",
+                    "ho ritsa ha mobu",
+                    "putlama"
+                ],
+                "mispellings": [
+                    "earthquake",
+                    "mobu",
+                    "ho wa"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "flood",
+                    "flooded",
+                    "flooding",
+                    "monsoon"
+                ],
+                "mispellings": [
+                    "flud",
+                    "flod",
+                    "munson"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "moewallo / metsi",
+                    "tletse metsi",
+                    "likhohola"
+                ],
+                "mispellings": [
+                    "flud"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "smoke",
+                    "smoked"
+                ],
+                "mispellings": [
+                    "smooke",
+                    "smok"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mosi"
+                ],
+                "mispellings": [
+                    "smoko"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "typhoon",
+                    "hurricane",
+                    "tornado",
+                    "cyclone"
+                ],
+                "mispellings": [
+                    "storm",
+                    "rain",
+                    "water",
+                    "stormy"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sefefo",
+                    "leholiotsoana",
+                    "leholiotsoana",
+                    "leholiotsoana"
+                ],
+                "mispellings": [
+                    "moya",
+                    "cyclioni"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "droughts",
+                    "dry",
+                    "aridity"
+                ],
+                "mispellings": [
+                    "dri"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "komello",
+                    "omme",
+                    "omeletse"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "volcanic eruption",
+                    "volcano"
+                ],
+                "mispellings": [
+                    "fire",
+                    "hot"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ho foqoha ha seretse se chesang",
+                    "seretse se chesang"
+                ],
+                "mispellings": [
+                    "volkano"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "wind",
+                    "blast",
+                    "windy"
+                ],
+                "mispellings": [
+                    "air"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "moea",
+                    "qhoma",
+                    "moea e fokang"
+                ],
+                "mispellings": [
+                    "moya"
+                ]
+            }
+        }
+    ],
+    "Violence": [
+        {
+            "English": {
+                "keywords": [
+                    "hit",
+                    "hitting",
+                    "hits"
+                ],
+                "mispellings": [
+                    "hitt",
+                    "hitin",
+                    "hittin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "otla",
+                    "ho otla",
+                    "otla"
+                ],
+                "mispellings": [
+                    "shapa"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "beat",
+                    "beating",
+                    "beats"
+                ],
+                "mispellings": [
+                    "beetin",
+                    "beeting",
+                    "beets",
+                    "bet"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "otla"
+                ],
+                "mispellings": [
+                    "kotlo"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "abuse",
+                    "abusive",
+                    "abusing",
+                    "Abused"
+                ],
+                "mispellings": [
+                    "abuzin",
+                    "abuz",
+                    "buse"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tlhekefetso",
+                    "hlekefetsa",
+                    "hlekefetsa",
+                    "hlekefetsoa"
+                ],
+                "mispellings": [
+                    "abuzi"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "violent",
+                    "violence"
+                ],
+                "mispellings": [
+                    "violnce",
+                    "vilent"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mabifi",
+                    "pefo"
+                ],
+                "mispellings": [
+                    "ntoa"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pain",
+                    "painful",
+                    "pains",
+                    "paining"
+                ],
+                "mispellings": [
+                    "pen",
+                    "poen"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bohloko",
+                    "bohloko"
+                ],
+                "mispellings": [
+                    "mahloko"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blood",
+                    "bleeding",
+                    "bled"
+                ],
+                "mispellings": [
+                    "blud",
+                    "bleding",
+                    "bleedding"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mali",
+                    "ho tsoa madi",
+                    "dutla madi"
+                ],
+                "mispellings": [
+                    "madi"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "bruise",
+                    "bruising",
+                    "bruised"
+                ],
+                "mispellings": [
+                    "brusing",
+                    "brused",
+                    "broosed"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ho lemala",
+                    "lemetse"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hurt",
+                    "hurting",
+                    "hurts"
+                ],
+                "mispellings": [
+                    "hurted",
+                    "hurrt"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bohloko",
+                    "ho utloisa bohloko"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ache",
+                    "aching",
+                    "ached"
+                ],
+                "mispellings": [
+                    "acked"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bohloko"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "injury",
+                    "injured"
+                ],
+                "mispellings": [
+                    "inguries"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kotsi",
+                    "lemala"
+                ],
+                "mispellings": [
+                    "ho lemala"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cut",
+                    "cutting"
+                ],
+                "mispellings": [
+                    "cutt"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kgaola"
+                ],
+                "mispellings": [
+                    "sehile"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "harm",
+                    "harming",
+                    "harmful",
+                    "harmed"
+                ],
+                "mispellings": [
+                    "harrm",
+                    "harme",
+                    "haarm",
+                    "harmng"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kotsi",
+                    "kotsi",
+                    "e kotsi"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "slap",
+                    "slapped",
+                    "slapping"
+                ],
+                "mispellings": [
+                    "slip",
+                    "slappping",
+                    "slaped",
+                    "slape"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "otlanya",
+                    "ho otlanya"
+                ],
+                "mispellings": [
+                    "mpama",
+                    "o shapiloe ka mpama"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "punch",
+                    "punched",
+                    "punching",
+                    "punches"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "otla ka setebele",
+                    "litebele"
+                ],
+                "mispellings": [
+                    "feyci"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "kill",
+                    "killing",
+                    "killed",
+                    "kills"
+                ],
+                "mispellings": [
+                    "cill",
+                    "cills",
+                    "kilin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bolaea",
+                    "ho bolaea",
+                    "bolailoe",
+                    "bolaea"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "murder",
+                    "murderer",
+                    "murdering",
+                    "murdered"
+                ],
+                "mispellings": [
+                    "merdered",
+                    "murd",
+                    "mrdered"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "polao",
+                    "mmolai",
+                    "bolailoe"
+                ],
+                "mispellings": [
+                    "mollayi"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "bang",
+                    "banging",
+                    "banged"
+                ],
+                "mispellings": [
+                    "baning",
+                    "bangin",
+                    "pang"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blow"
+                ],
+                "mispellings": [
+                    "below",
+                    "blo",
+                    "bow"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "phatlola"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cane"
+                ],
+                "mispellings": [
+                    "stick",
+                    "can"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "molamu"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "belt"
+                ],
+                "mispellings": [
+                    "girdle",
+                    "strap"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "lebanta"
+                ],
+                "mispellings": [
+                    "lepanta"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stab",
+                    "stabbing",
+                    "stabbed"
+                ],
+                "mispellings": [
+                    "sabbed",
+                    "satb",
+                    "stabing"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hlaba",
+                    "ho hlaba",
+                    "hlabiloe"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "scream",
+                    "screaming",
+                    "screamed"
+                ],
+                "mispellings": [
+                    "screem",
+                    "creamed",
+                    "screemed"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hoeletsa",
+                    "ho hoeletsa",
+                    "hoeletsa"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "push",
+                    "pushing",
+                    "pushed"
+                ],
+                "mispellings": [
+                    "puss",
+                    "pusing"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sututsa",
+                    "ho sututsa",
+                    "sutusetsa"
+                ],
+                "mispellings": [
+                    "phusha"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "shove",
+                    "shoving",
+                    "shoved"
+                ],
+                "mispellings": [
+                    "shoove",
+                    "shooved",
+                    "shov"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sututsa",
+                    "ho sututsa"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "kick",
+                    "kicking",
+                    "kicked"
+                ],
+                "mispellings": [
+                    "kiked",
+                    "kik",
+                    "kickin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "raha",
+                    "ho raha",
+                    "rahile"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "strike",
+                    "striking",
+                    "stricked"
+                ],
+                "mispellings": [
+                    "strikd",
+                    "strik",
+                    "stricke"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "otla"
+                ],
+                "mispellings": [
+                    "shapa"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "torture",
+                    "tortured"
+                ],
+                "mispellings": [
+                    "tortue",
+                    "tortued",
+                    "torured"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tlhokofatso",
+                    "hlokofatsoa"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "throw",
+                    "throwing",
+                    "throws"
+                ],
+                "mispellings": [
+                    "trow",
+                    "trowing",
+                    "trows"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "lahlela",
+                    "ho lahlela",
+                    "lahla"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "Rape",
+                    "raping",
+                    "rapist"
+                ],
+                "mispellings": [
+                    "rapeing",
+                    "rapping",
+                    "raipe",
+                    "rap"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "peto",
+                    "ho beta",
+                    "motho ea betileng"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "violate",
+                    "violation",
+                    "violated"
+                ],
+                "mispellings": [
+                    "violat",
+                    "vilate",
+                    "volated"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tlola",
+                    "tlolo",
+                    "tlokotsoe"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sex",
+                    "sexual",
+                    "sexually",
+                    "sext"
+                ],
+                "mispellings": [
+                    "sexting",
+                    "xxx",
+                    "ex"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "thobalano"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "force",
+                    "forced",
+                    "forcing"
+                ],
+                "mispellings": [
+                    "forc",
+                    "forcin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hapeletsa",
+                    "qobelloang",
+                    "qobella"
+                ],
+                "mispellings": [
+                    "hapeletsa"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pressure",
+                    "pressured",
+                    "pressuring"
+                ],
+                "mispellings": [
+                    "perssure",
+                    "perssured",
+                    "presssure"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "khatello",
+                    "petelitsoe",
+                    "hatellang"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "coercive",
+                    "coerce",
+                    "coerced"
+                ],
+                "mispellings": [
+                    "coersive",
+                    "corrisive"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "qobella",
+                    "qobella",
+                    "qobelletsoe"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "misconduct",
+                    "inappropriate",
+                    "unacceptable"
+                ],
+                "mispellings": [
+                    "miscund",
+                    "inappropiate"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "boitsoaro bo bobe",
+                    "e sa lokelang",
+                    "e sa amohelehang"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "harassment",
+                    "stalking",
+                    "perpetration"
+                ],
+                "mispellings": [
+                    "stolk"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hlekefetsa",
+                    "hlekefetso"
+                ],
+                "mispellings": []
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blame",
+                    "blaming"
+                ],
+                "mispellings": [
+                    "blam"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "molato",
+                    "ho beha molato"
+                ],
+                "mispellings": []
+            }
+        }
+    ]
+}

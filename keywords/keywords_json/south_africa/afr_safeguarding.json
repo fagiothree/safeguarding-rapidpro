@@ -1,0 +1,2187 @@
+{
+    "Generic (Police and Ambulance)": [
+        {
+            "English": {
+                "keywords": [
+                    "kidnap",
+                    "kidnapping",
+                    "kidnapper",
+                    "kidnapped"
+                ],
+                "mispellings": [
+                    "kiddnapp",
+                    "kidnapp",
+                    "kiddnap",
+                    "kidnape"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ontvoer",
+                    "ontvoering",
+                    "ontvoerder",
+                    "het ontvoer"
+                ],
+                "mispellings": [
+                    "ondvoer",
+                    "ontvoor",
+                    "ondvoor",
+                    "ontfoer"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "death",
+                    "dead",
+                    "dying"
+                ],
+                "mispellings": [
+                    "deeath",
+                    "deat"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "dood",
+                    "dooie",
+                    "doodgaan",
+                    "sterf"
+                ],
+                "mispellings": [
+                    "doot",
+                    "dootgan",
+                    "doodgan",
+                    "sterv",
+                    "sterwe",
+                    "doje"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "illegal"
+                ],
+                "mispellings": [
+                    "ilegal",
+                    "ellegal",
+                    "ileagaly"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "onwettig",
+                    "onwettige"
+                ],
+                "mispellings": [
+                    "onwetig",
+                    "onwettag",
+                    "onwetag",
+                    "onwetige",
+                    "onwettage",
+                    "onwetage"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "poison",
+                    "poisoning",
+                    "poisoned"
+                ],
+                "mispellings": [
+                    "pesian",
+                    "boisoned"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gif",
+                    "vergiftig",
+                    "giftig"
+                ],
+                "mispellings": [
+                    "giv",
+                    "geef",
+                    "vergiftag",
+                    "vergeeftag",
+                    "geeftag"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "crisis",
+                    "crises"
+                ],
+                "mispellings": [
+                    "krisis",
+                    "krises"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "krisis",
+                    "krisisse"
+                ],
+                "mispellings": [
+                    "krises",
+                    "krisus",
+                    "kruses",
+                    "krusis"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "trouble",
+                    "troubling",
+                    "troublesome",
+                    "troubled"
+                ],
+                "mispellings": [
+                    "troubl",
+                    "trevel",
+                    "trubl"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "moeilikheid"
+                ],
+                "mispellings": [
+                    "moelikheid",
+                    "moeilikgeit",
+                    "moelikgeit"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "victim",
+                    "victimised"
+                ],
+                "mispellings": [
+                    "victm",
+                    "victimized",
+                    "victem"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "slagoffer"
+                ],
+                "mispellings": [
+                    "slag offer",
+                    "slagover",
+                    "slag over"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "emergency",
+                    "SOS",
+                    "911"
+                ],
+                "mispellings": [
+                    "emergincy",
+                    "emergincey",
+                    "emergince"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "noodgeval",
+                    "SOS",
+                    "911",
+                    "nood"
+                ],
+                "mispellings": [
+                    "nootgeval",
+                    "noot",
+                    "noot geval",
+                    "noodgefal",
+                    "nootgefal",
+                    "noot gefal"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "danger",
+                    "dangerous",
+                    "endangered"
+                ],
+                "mispellings": [
+                    "dangeur",
+                    "dangeer",
+                    "dangre"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gevaar",
+                    "gevaarlik",
+                    "gevaarlike"
+                ],
+                "mispellings": [
+                    "gevar",
+                    "gefaar",
+                    "gefaarlik",
+                    "gefaarlike"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stalking"
+                ],
+                "mispellings": [
+                    "staling",
+                    "staking",
+                    "stakling",
+                    "stalkin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bekruip",
+                    "afloer",
+                    "bekruiper",
+                    "afloerder"
+                ],
+                "mispellings": [
+                    "bekryp",
+                    "avloer",
+                    "bekryper",
+                    "avloerder"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "follow",
+                    "following",
+                    "followed"
+                ],
+                "mispellings": [
+                    "folow",
+                    "folowed",
+                    "followin",
+                    "folowin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "volg",
+                    "agtervolg",
+                    "jaag"
+                ],
+                "mispellings": [
+                    "folg",
+                    "agterfolg",
+                    "agter volg",
+                    "agter folg",
+                    "jag"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "suffer",
+                    "suffering",
+                    "suffered"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "ly",
+                    "swaarkry",
+                    "kry swaar"
+                ],
+                "mispellings": [
+                    "lei",
+                    "lui",
+                    "swarkry",
+                    "swaar kry",
+                    "swaar krei",
+                    "swar krei"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hide",
+                    "hiding",
+                    "hid"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "wegkruip",
+                    "kruip weg"
+                ],
+                "mispellings": [
+                    "wegkryp",
+                    "kryp weg",
+                    "weg kryp",
+                    "weg kruip"
+                ]
+            }
+        }
+    ],
+    "Health": [
+        {
+            "English": {
+                "keywords": [
+                    "vomit",
+                    "vomitted",
+                    "vomitting"
+                ],
+                "mispellings": [
+                    "yak",
+                    "vomited",
+                    "womit"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "opgooi",
+                    "gooi op",
+                    "braak",
+                    "braking"
+                ],
+                "mispellings": [
+                    "opgoei",
+                    "op gooi",
+                    "goei op",
+                    "kots",
+                    "katte skiet",
+                    "skiet katte"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "puke",
+                    "puking",
+                    "puked"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "opbring",
+                    "bring op",
+                    "vomeer",
+                    "naar"
+                ],
+                "mispellings": [
+                    "op bring",
+                    "opbreng",
+                    "obring",
+                    "breng op",
+                    "fomeer"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "disease",
+                    "STD",
+                    "diseases"
+                ],
+                "mispellings": [
+                    "diseaze",
+                    "dizeese",
+                    "SDT"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "siekte",
+                    "SOS",
+                    "siektes",
+                    "siek"
+                ],
+                "mispellings": [
+                    "sik",
+                    "sikte",
+                    "siktes"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sick",
+                    "sickness",
+                    "sickly"
+                ],
+                "mispellings": [
+                    "sik",
+                    "seck"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "siek",
+                    "siekte",
+                    "siektes"
+                ],
+                "mispellings": [
+                    "sik",
+                    "sikte",
+                    "siktes"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ill",
+                    "illness",
+                    "illnesses"
+                ],
+                "mispellings": [
+                    "illl",
+                    "illniss",
+                    "illnees"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "siek",
+                    "siekte",
+                    "siektes"
+                ],
+                "mispellings": [
+                    "sik",
+                    "sikte",
+                    "siktes"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "health",
+                    "healthy"
+                ],
+                "mispellings": [
+                    "haelth",
+                    "healthy",
+                    "helath"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gesond",
+                    "gesondheid",
+                    "gesonde"
+                ],
+                "mispellings": [
+                    "gesont",
+                    "gessont",
+                    "gessond"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hospital",
+                    "clinic"
+                ],
+                "mispellings": [
+                    "hopital",
+                    "hopsital"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hospitaal",
+                    "kliniek"
+                ],
+                "mispellings": [
+                    "hopsitaal",
+                    "hopitaal",
+                    "hospital",
+                    "klinik",
+                    "klinniek",
+                    "klinnik"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "miscarriage",
+                    "miscarry"
+                ],
+                "mispellings": [
+                    "miscariage",
+                    "miscarig"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "miskraam"
+                ],
+                "mispellings": [
+                    "mis kraam",
+                    "meskraam",
+                    "muskraam",
+                    "misskraam"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pregnant",
+                    "pregnancy",
+                    "expecting"
+                ],
+                "mispellings": [
+                    "pegant",
+                    "preganci",
+                    "prengant"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "swanger",
+                    "swangerskap",
+                    "verwag",
+                    "verwagtend"
+                ],
+                "mispellings": [
+                    "swaner",
+                    "swanner",
+                    "swannerskap",
+                    "swanerskap",
+                    "vewag"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "abortion",
+                    "abort",
+                    "aborted",
+                    "aborting"
+                ],
+                "mispellings": [
+                    "abbortion",
+                    "obortion"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "aborsie",
+                    "aborteer",
+                    "kom af",
+                    "afkom"
+                ],
+                "mispellings": [
+                    "abborsie",
+                    "abborteer",
+                    "geabborteer",
+                    "afgekom",
+                    "avkom",
+                    "af gekom"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "COVID",
+                    "COVID19",
+                    "COVID-19"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "COVID",
+                    "COVID19",
+                    "COVID-19",
+                    "Corona"
+                ],
+                "mispellings": [
+                    "COVID 19",
+                    "Corrona",
+                    "Corronna",
+                    "Coronna"
+                ]
+            }
+        }
+    ],
+    "Mental Health": [
+        {
+            "English": {
+                "keywords": [
+                    "anxiety",
+                    "anxious",
+                    "anxiousness"
+                ],
+                "mispellings": [
+                    "angziaty",
+                    "anxieti",
+                    "anxeity"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "angs",
+                    "angstig",
+                    "angstigheid",
+                    "ontsteld"
+                ],
+                "mispellings": [
+                    "angstag",
+                    "angstagheid",
+                    "angstageit",
+                    "onsteld",
+                    "onstelt",
+                    "ontstelt"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "depression",
+                    "depressive",
+                    "depressed"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "depressie",
+                    "depressief",
+                    "terneergedruk",
+                    "neerslagtig"
+                ],
+                "mispellings": [
+                    "depresie",
+                    "depresief",
+                    "deppresie",
+                    "teneergedruk",
+                    "teneergedrik"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "disorder",
+                    "disorders"
+                ],
+                "mispellings": [
+                    "dizorder",
+                    "dissorder",
+                    "isorder"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "ongesteldheid",
+                    "ongesteld",
+                    "kwaal",
+                    "voel nie lekker"
+                ],
+                "mispellings": [
+                    "ongesteltheid",
+                    "ongestelt",
+                    "voel nie leker",
+                    "voel nie leke"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "therapy"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "terapie"
+                ],
+                "mispellings": [
+                    "terrapie",
+                    "terrappie",
+                    "terappie",
+                    "terepie",
+                    "terrepie"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "psychologist"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "sielkundige",
+                    "sielkundig"
+                ],
+                "mispellings": [
+                    "sielkindig",
+                    "sielkindige"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "suicide",
+                    "suicidal",
+                    "suicides"
+                ],
+                "mispellings": [
+                    "suicido",
+                    "suiced"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "selfdood",
+                    "selfmoord",
+                    "selfmoorde"
+                ],
+                "mispellings": [
+                    "self dood",
+                    "self doot",
+                    "selfmoort",
+                    "self moord",
+                    "self moort"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stress",
+                    "stressed"
+                ],
+                "mispellings": [
+                    "stresss",
+                    "strees",
+                    "srtess"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "stres",
+                    "gestres"
+                ],
+                "mispellings": [
+                    "stress",
+                    "gestress",
+                    "uitgestres",
+                    "uitgestress"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "distress",
+                    "distressed"
+                ],
+                "mispellings": [
+                    "destressed",
+                    "destresss"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "nood",
+                    "kommer",
+                    "bekommerd",
+                    "bekommernis"
+                ],
+                "mispellings": [
+                    "noot",
+                    "bekomerd",
+                    "bekomert",
+                    "bekomernis"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sad",
+                    "saddened"
+                ],
+                "mispellings": [
+                    "sadd",
+                    "saddenned",
+                    "sadend"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "hartseer",
+                    "bedroef",
+                    "treurig"
+                ],
+                "mispellings": [
+                    "hart seer",
+                    "hardseer",
+                    "hard seer",
+                    "af",
+                    "trerig"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "scare",
+                    "scared"
+                ],
+                "mispellings": [
+                    "csared",
+                    "csare"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bang",
+                    "bang maak"
+                ],
+                "mispellings": [
+                    "bangmaak",
+                    "ban",
+                    "banmaak"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "afraid"
+                ],
+                "mispellings": [
+                    "afaid"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bang",
+                    "bang maak"
+                ],
+                "mispellings": [
+                    "bangmaak",
+                    "ban",
+                    "banmaak"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "worried"
+                ],
+                "mispellings": [
+                    "woried"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bekommerd",
+                    "bekommernis"
+                ],
+                "mispellings": [
+                    "bekomerd",
+                    "bekomert",
+                    "bekomernis"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "fear",
+                    "frighten"
+                ],
+                "mispellings": [
+                    "fer",
+                    "fire"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "vrees",
+                    "bevrees"
+                ],
+                "mispellings": [
+                    "frees",
+                    "befrees"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "panic",
+                    "panicking",
+                    "panicked"
+                ],
+                "mispellings": [
+                    "panik",
+                    "paniked",
+                    "paniking"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "paniek",
+                    "paniekerig"
+                ],
+                "mispellings": [
+                    "panik",
+                    "panikerig",
+                    "paniekerag",
+                    "panikkerig",
+                    "panikkerag"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "mad"
+                ],
+                "mispellings": [
+                    "md",
+                    "made"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mal"
+                ],
+                "mispellings": [
+                    "mall",
+                    "maal",
+                    "van sy kop af",
+                    "van haar kop af",
+                    "van my kop af"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "grief"
+                ],
+                "mispellings": [
+                    "greif",
+                    "griev"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bedroef",
+                    "droefheid",
+                    "verdriet",
+                    "smart"
+                ],
+                "mispellings": [
+                    "bedroev",
+                    "droeveit",
+                    "verdrit",
+                    "smard"
+                ]
+            }
+        }
+    ],
+    "Natural Disasters": [
+        {
+            "English": {
+                "keywords": [
+                    "fire",
+                    "wildfire"
+                ],
+                "mispellings": [
+                    "blaze",
+                    "burnt",
+                    "hot",
+                    "fir"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "brand",
+                    "vuur",
+                    "afbrand",
+                    "brand af"
+                ],
+                "mispellings": [
+                    "brant",
+                    "fuur",
+                    "vier",
+                    "fier",
+                    "afbrant",
+                    "brant af"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "earthquake",
+                    "Landslide",
+                    "collapse"
+                ],
+                "mispellings": [
+                    "shake",
+                    "irthquake",
+                    "earthquak",
+                    "fall"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "aardbewing",
+                    "grondstorting",
+                    "grondverskuiwing"
+                ],
+                "mispellings": [
+                    "aardbeewing",
+                    "aartbewing",
+                    "aartbeewing"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "flood",
+                    "flooded",
+                    "flooding",
+                    "monsoon"
+                ],
+                "mispellings": [
+                    "flud",
+                    "flod",
+                    "munson"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "vloed",
+                    "oorvloei",
+                    "stormwater"
+                ],
+                "mispellings": [
+                    "vloet",
+                    "oor vloei",
+                    "storm water",
+                    "storemwater"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "smoke",
+                    "smoked"
+                ],
+                "mispellings": [
+                    "smooke",
+                    "smok"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "rook",
+                    "gerook",
+                    "rokerig"
+                ],
+                "mispellings": [
+                    "rookerig"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "typhoon",
+                    "hurricane",
+                    "tornado",
+                    "cyclone"
+                ],
+                "mispellings": [
+                    "storm",
+                    "rain",
+                    "water",
+                    "stormy"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "tifoon",
+                    "orkaan",
+                    "tornado",
+                    "sikloon"
+                ],
+                "mispellings": [
+                    "storm",
+                    "re\u00ebn",
+                    "water",
+                    "stormagtig",
+                    "storem"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "droughts",
+                    "dry",
+                    "aridity"
+                ],
+                "mispellings": [
+                    "dri"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "droogte",
+                    "droog"
+                ],
+                "mispellings": [
+                    "drogte",
+                    "droogt",
+                    "drogt"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "volcanic eruption",
+                    "volcano"
+                ],
+                "mispellings": [
+                    "fire",
+                    "hot"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "vulkaanuitbarsting",
+                    "vulkaan",
+                    "lawa"
+                ],
+                "mispellings": [
+                    "vulkan",
+                    "vulkanuitbarsting",
+                    "lava"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "wind",
+                    "blast",
+                    "windy"
+                ],
+                "mispellings": [
+                    "air"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "wind",
+                    "rukwind",
+                    "winderig"
+                ],
+                "mispellings": [
+                    "wint",
+                    "rukwint",
+                    "rikwind",
+                    "rikwint"
+                ]
+            }
+        }
+    ],
+    "Violence": [
+        {
+            "English": {
+                "keywords": [
+                    "hit",
+                    "hitting",
+                    "hits"
+                ],
+                "mispellings": [
+                    "hitt",
+                    "hitin",
+                    "hittin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "slaan",
+                    "geslaan",
+                    "klap",
+                    "geklap"
+                ],
+                "mispellings": [
+                    "slaat",
+                    "slat",
+                    "donder",
+                    "gedonder",
+                    "donner",
+                    "gedonner"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "beat",
+                    "beating",
+                    "beats"
+                ],
+                "mispellings": [
+                    "beetin",
+                    "beeting",
+                    "beets",
+                    "bet"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "slaan",
+                    "geslaan",
+                    "klap",
+                    "geklap"
+                ],
+                "mispellings": [
+                    "slaat",
+                    "slat",
+                    "geslat",
+                    "geslaat",
+                    "moer",
+                    "gemoer"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "abuse",
+                    "abusive",
+                    "abusing",
+                    "Abused"
+                ],
+                "mispellings": [
+                    "abuzin",
+                    "abuz",
+                    "buse"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "mishandel",
+                    "mishandeling"
+                ],
+                "mispellings": [
+                    "misshandel",
+                    "misshandeling",
+                    "mishandling"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "violent",
+                    "violence"
+                ],
+                "mispellings": [
+                    "violnce",
+                    "vilent"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gewelddadig",
+                    "geweld"
+                ],
+                "mispellings": [
+                    "geweldadig",
+                    "gewelt",
+                    "geweldadag"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pain",
+                    "painful",
+                    "pains",
+                    "paining"
+                ],
+                "mispellings": [
+                    "pen",
+                    "poen"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "pyn",
+                    "seer",
+                    "pynlik",
+                    "pyne"
+                ],
+                "mispellings": [
+                    "pein",
+                    "peinlik",
+                    "peine",
+                    "puin",
+                    "puine"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blood",
+                    "bleeding",
+                    "bled"
+                ],
+                "mispellings": [
+                    "blud",
+                    "bleding",
+                    "bleedding"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "bloed",
+                    "bloei",
+                    "gebloei"
+                ],
+                "mispellings": [
+                    "bloet",
+                    "blut",
+                    "blud"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "bruise",
+                    "bruising",
+                    "bruised"
+                ],
+                "mispellings": [
+                    "brusing",
+                    "brused",
+                    "broosed"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "kneus",
+                    "kneusing",
+                    "gekneus",
+                    "kneusplek"
+                ],
+                "mispellings": [
+                    "knees",
+                    "kneesing",
+                    "geknees",
+                    "kneesplek",
+                    "kneesplekke"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hurt",
+                    "hurting",
+                    "hurts"
+                ],
+                "mispellings": [
+                    "hurted",
+                    "hurrt"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "seer",
+                    "seermaak",
+                    "seergemaak"
+                ],
+                "mispellings": [
+                    "seer maak",
+                    "seer gemaak"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ache",
+                    "aching",
+                    "ached"
+                ],
+                "mispellings": [
+                    "acked"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "pyn",
+                    "seer",
+                    "pynlik"
+                ],
+                "mispellings": [
+                    "pein",
+                    "peinlik"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "injury",
+                    "injured"
+                ],
+                "mispellings": [
+                    "inguries"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "besering",
+                    "beseer",
+                    "beserings"
+                ],
+                "mispellings": [
+                    "beseering",
+                    "beseerings",
+                    "beserang",
+                    "beseerang",
+                    "beserangs",
+                    "beseerangs"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cut",
+                    "cutting"
+                ],
+                "mispellings": [
+                    "cutt"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "sny",
+                    "gesny"
+                ],
+                "mispellings": [
+                    "snei",
+                    "gesnei"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "harm",
+                    "harming",
+                    "harmful",
+                    "harmed"
+                ],
+                "mispellings": [
+                    "harrm",
+                    "harme",
+                    "haarm",
+                    "harmng"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "leed",
+                    "leed aandoen",
+                    "leed aangedoen",
+                    "skadelik"
+                ],
+                "mispellings": [
+                    "leet",
+                    "skaadelik"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "slap",
+                    "slapped",
+                    "slapping"
+                ],
+                "mispellings": [
+                    "slip",
+                    "slappping",
+                    "slaped",
+                    "slape"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "klap",
+                    "geklap"
+                ],
+                "mispellings": [
+                    "klaap",
+                    "geklaap"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "punch",
+                    "punched",
+                    "punching",
+                    "punches"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "slaan",
+                    "vuisslaan",
+                    "vuis",
+                    "vuiste"
+                ],
+                "mispellings": [
+                    "veisslaan",
+                    "veis",
+                    "veiste",
+                    "vys",
+                    "vyste",
+                    "vysslaan"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "kill",
+                    "killing",
+                    "killed",
+                    "kills"
+                ],
+                "mispellings": [
+                    "cill",
+                    "cills",
+                    "kilin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "doodmaak",
+                    "maak dood",
+                    "doodgemaak"
+                ],
+                "mispellings": [
+                    "dootmaak",
+                    "doot maak",
+                    "dood maak",
+                    "dootgemaak"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "murder",
+                    "murderer",
+                    "murdering",
+                    "murdered"
+                ],
+                "mispellings": [
+                    "merdered",
+                    "murd",
+                    "mrdered"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "moord",
+                    "moordenaar",
+                    "moor",
+                    "vermoor"
+                ],
+                "mispellings": [
+                    "moort",
+                    "moordnaar",
+                    "moordenar",
+                    "vemoor"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "bang",
+                    "banging",
+                    "banged"
+                ],
+                "mispellings": [
+                    "baning",
+                    "bangin",
+                    "pang"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "knal",
+                    "geweerskoot",
+                    "skoot"
+                ],
+                "mispellings": [
+                    "skood",
+                    "geweerskood"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blow"
+                ],
+                "mispellings": [
+                    "below",
+                    "blo",
+                    "bow"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "blaas"
+                ],
+                "mispellings": [
+                    "blas",
+                    "belaas"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cane"
+                ],
+                "mispellings": [
+                    "stick",
+                    "can"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "rottang",
+                    "lat"
+                ],
+                "mispellings": [
+                    "rotang",
+                    "stok",
+                    "rottan",
+                    "rotan"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "belt"
+                ],
+                "mispellings": [
+                    "girdle",
+                    "strap"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "belt"
+                ],
+                "mispellings": [
+                    "gordel",
+                    "band",
+                    "beld"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stab",
+                    "stabbing",
+                    "stabbed"
+                ],
+                "mispellings": [
+                    "sabbed",
+                    "satb",
+                    "stabing"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "steek",
+                    "messteek",
+                    "gesteek"
+                ],
+                "mispellings": [
+                    "stiek",
+                    "gestiek",
+                    "mes steek"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "scream",
+                    "screaming",
+                    "screamed"
+                ],
+                "mispellings": [
+                    "screem",
+                    "creamed",
+                    "screemed"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "skree",
+                    "geskree",
+                    "skreeu",
+                    "geskreeu"
+                ],
+                "mispellings": [
+                    "skrie",
+                    "geskrie"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "push",
+                    "pushing",
+                    "pushed"
+                ],
+                "mispellings": [
+                    "puss",
+                    "pusing"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "stoot",
+                    "gestoot"
+                ],
+                "mispellings": [
+                    "stood",
+                    "gestood"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "shove",
+                    "shoving",
+                    "shoved"
+                ],
+                "mispellings": [
+                    "shoove",
+                    "shooved",
+                    "shov"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "stamp",
+                    "gestamp"
+                ],
+                "mispellings": [
+                    "stam",
+                    "gestam"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "kick",
+                    "kicking",
+                    "kicked"
+                ],
+                "mispellings": [
+                    "kiked",
+                    "kik",
+                    "kickin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "skop",
+                    "geskop"
+                ],
+                "mispellings": [
+                    "gaskop"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "strike",
+                    "striking",
+                    "stricked"
+                ],
+                "mispellings": [
+                    "strikd",
+                    "strik",
+                    "stricke"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "slaan",
+                    "geslaan"
+                ],
+                "mispellings": [
+                    "slaat",
+                    "slat",
+                    "geslat",
+                    "geslaat"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "torture",
+                    "tortured"
+                ],
+                "mispellings": [
+                    "tortue",
+                    "tortued",
+                    "torured"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "martel",
+                    "gemartel",
+                    "marteling"
+                ],
+                "mispellings": [
+                    "martil",
+                    "gemartil",
+                    "marteleng",
+                    "martiling"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "throw",
+                    "throwing",
+                    "throws"
+                ],
+                "mispellings": [
+                    "trow",
+                    "trowing",
+                    "trows"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "gooi",
+                    "gegooi",
+                    "neergegooi"
+                ],
+                "mispellings": [
+                    "goei",
+                    "gegoei",
+                    "neergegoei",
+                    "neer gegoei"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "rape",
+                    "raping",
+                    "rapist"
+                ],
+                "mispellings": [
+                    "rapeing",
+                    "rapping",
+                    "raipe",
+                    "rap"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "verkrag",
+                    "verkragting",
+                    "verkragter",
+                    "onteer"
+                ],
+                "mispellings": [
+                    "vekrag",
+                    "vekragting",
+                    "vekragter"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "violate",
+                    "violation",
+                    "violated"
+                ],
+                "mispellings": [
+                    "violat",
+                    "vilate",
+                    "volated"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "skend",
+                    "skending"
+                ],
+                "mispellings": [
+                    "skendang"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sex",
+                    "sexual",
+                    "sexually",
+                    "sext"
+                ],
+                "mispellings": [
+                    "sexting",
+                    "xxx",
+                    "ex"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "seks",
+                    "seksueel",
+                    "seksuele"
+                ],
+                "mispellings": [
+                    "seksieel",
+                    "seksiele"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "force",
+                    "forced",
+                    "forcing"
+                ],
+                "mispellings": [
+                    "forc",
+                    "forcin"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "dwing",
+                    "dwang",
+                    "gedwing",
+                    "forseer"
+                ],
+                "mispellings": [
+                    "ding",
+                    "dang",
+                    "fors"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pressure",
+                    "pressured",
+                    "pressuring"
+                ],
+                "mispellings": [
+                    "perssure",
+                    "perssured",
+                    "presssure"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "druk",
+                    "druk uitoefen",
+                    "druk uitgeoefen",
+                    "gedruk"
+                ],
+                "mispellings": [
+                    "drik",
+                    "gedrik"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "coercive",
+                    "coerce",
+                    "coerced"
+                ],
+                "mispellings": [
+                    "coersive",
+                    "corrisive"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "dwing",
+                    "dwang",
+                    "gedwing",
+                    "forseer"
+                ],
+                "mispellings": [
+                    "ding",
+                    "dang",
+                    "fors",
+                    "afdwing"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "misconduct",
+                    "inappropriate",
+                    "unacceptable"
+                ],
+                "mispellings": [
+                    "miscund",
+                    "inappropiate"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "wangedrag",
+                    "onvanpas",
+                    "onaanvaarbaar",
+                    "onvanpaste"
+                ],
+                "mispellings": [
+                    "onaanvaarbare",
+                    "onvaarbaar",
+                    "onvaarbare"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "harassment",
+                    "stalking",
+                    "perpetration"
+                ],
+                "mispellings": [
+                    "stolk"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "teistering",
+                    "teister",
+                    "molesteer",
+                    "pleeg"
+                ],
+                "mispellings": [
+                    "tyster",
+                    "mollesteer",
+                    "getyster",
+                    "gemollesteer"
+                ]
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blame",
+                    "blaming"
+                ],
+                "mispellings": [
+                    "blam"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "blameer"
+                ],
+                "mispellings": [
+                    "blammeer",
+                    "blammer"
+                ]
+            }
+        }
+    ]
+}
