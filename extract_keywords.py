@@ -6,7 +6,7 @@ HEADER1 = "High-risk key words"
 HEADER2 = "Range of possible misspellings and common slang used by the population"
 # Replace the filename equal to the new file name needed to process.
 #FILENAME = "finalHigh-risk Keywords- Safeguarding_20210608JML.xlsx"
-FILENAME = "./keywords/keywords_excel/south_africa/zul_mod.xlsx"
+FILENAME = "./keywords/keywords_excel/philippines/fil_mod2.xlsx"
 
 def read_entries_from_range(xmin, xmax, row1, row2):
 	entries = []
@@ -101,6 +101,6 @@ for sheet in book.worksheets:
 	all_tables[sheet.title] = table_content
 
 #Always change the output name when processing new xlsx file to avoid overwritting.
-with open("./keywords/keywords_json/south_africa/zul_safeguarding.json", "w") as outfile:
+with open("./keywords/keywords_json/philippines/single_language/fil.json", "w") as outfile:
 	json.dump(all_tables, outfile, indent=4)
 

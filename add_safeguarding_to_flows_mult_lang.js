@@ -4,22 +4,10 @@ let uuid = require("uuid")
 let path = require("path")
 
 
-/*
-import * as fs from 'fs';
-import * as uuid from 'uuid';
-import * as path from "path";
-*/
-
-//var input_path_kw = path.join(__dirname, "./output/safeguarding_malaysia.json");
-//var input_path_fl = "./input/plh-international-flavour_ABtesting.json";
-
-
-//let lang_code = "eng";
 
 let input_args = process.argv.slice(2);
 let input_path_kw = input_args[1];
 let input_path_fl = input_args[0];
-let lang_code = input_args[3];
 
 var json_string_kw = fs.readFileSync(input_path_kw).toString();
 var obj_keywords_by_cat = JSON.parse(json_string_kw);
@@ -33,13 +21,13 @@ const sg_flow_name = "PLH - Safeguarding - WFR interaction";
 
 // create strings for case in wft nodes
 var sg_keywords_eng = "";
-var sg_keywords_transl = "";
+var sg_keywords_transl = {};
 var sg_keywords_by_cat_eng = {};
 var sg_keywords_by_cat_transl = {};
 
 for (let cat in obj_keywords_by_cat) {
     sg_keywords_cat_eng = "";
-    sg_keywords_cat_transl = "";
+    sg_keywords_cat_transl = {};
 
     obj_keywords_by_cat[cat].forEach(eng_transl_pair =>{
     
@@ -52,32 +40,49 @@ for (let cat in obj_keywords_by_cat) {
             sg_keywords_cat_eng = sg_keywords_cat_eng + wd + ",";
         })
         if (eng_transl_pair.hasOwnProperty("Translation")){
-            eng_transl_pair["Translation"]["keywords"].forEach(wd => {
-                sg_keywords_transl = sg_keywords_transl + wd + ",";
-                sg_keywords_cat_transl = sg_keywords_cat_transl + wd + ",";
-            })
-            eng_transl_pair["Translation"]["mispellings"].forEach(wd => {
-                sg_keywords_cat_transl = sg_keywords_cat_transl + wd + ",";
-            })
+            for (let lang in eng_transl_pair["Translation"]){
+                if (!sg_keywords_transl.hasOwnProperty(lang)){
+                    sg_keywords_transl[lang] = "";
+                }
+                if (!sg_keywords_cat_transl.hasOwnProperty(lang)){
+                    sg_keywords_cat_transl[lang] = "";
+                }
+                eng_transl_pair["Translation"][lang]["keywords"].forEach(wd => {
+                    sg_keywords_transl[lang] = sg_keywords_transl[lang] + wd + ",";
+                    sg_keywords_cat_transl[lang] = sg_keywords_cat_transl[lang] + wd + ",";
+                })
+                eng_transl_pair["Translation"][lang]["mispellings"].forEach(wd => {
+                    sg_keywords_transl[lang] = sg_keywords_transl[lang] + wd + ",";
+                    sg_keywords_cat_transl[lang] = sg_keywords_cat_transl[lang] + wd + ",";
+                })
+
+            }
+            
         }
 
 
     })
     sg_keywords_cat_eng = sg_keywords_cat_eng.slice(0, sg_keywords_cat_eng.length - 1);
-    sg_keywords_cat_transl = sg_keywords_cat_transl.slice(0, sg_keywords_cat_transl.length - 1);
+    for (lang in sg_keywords_cat_transl){
+        sg_keywords_cat_transl[lang] = sg_keywords_cat_transl[lang].slice(0, sg_keywords_cat_transl[lang].length - 1);
+    }
+    
     sg_keywords_by_cat_eng[cat] =  sg_keywords_cat_eng;
     sg_keywords_by_cat_transl[cat] =  sg_keywords_cat_transl;
     
 }
 sg_keywords_eng = sg_keywords_eng.slice(0, sg_keywords_eng.length - 1);
-sg_keywords_transl = sg_keywords_transl.slice(0, sg_keywords_transl.length - 1);
+
+for (lang in sg_keywords_transl){
+    sg_keywords_transl[lang] = sg_keywords_transl[lang].slice(0, sg_keywords_transl[lang].length - 1);
+}
 
 
 // add keywords to all safeguarding nodes
 plh_flows.flows.forEach(flow => {
 	//console.log(flow.name)
     let wfr_nodes = flow.nodes.filter(node => (node.hasOwnProperty('router') && node.router.operand == "@input.text" && node.router.hasOwnProperty("wait")))
-    wfr_nodes.forEach(node => process_wfr_node(node, flow, sg_keywords_eng, sg_keywords_transl, lang_code));
+    wfr_nodes.forEach(node => process_wfr_node(node, flow, sg_keywords_eng, sg_keywords_transl));
 });
 
 
@@ -90,70 +95,37 @@ redirect_flow = redirect_flow[0];
 
 let split_node = redirect_flow.nodes[0];
 
-if (lang_code != "eng"){
-   if (!redirect_flow.hasOwnProperty("localization")){
-    redirect_flow.localization = {};
-    redirect_flow.localization[lang_code] = {};
-   } else if (!redirect_flow.localization.hasOwnProperty(lang_code)){
-    redirect_flow.localization[lang_code] = {};
-   }
-
-} 
 
 split_node.router.cases.forEach(cs => {
     let corresp_cat = split_node.router.categories.filter(cat => cat.uuid == cs.category_uuid)[0];
+    let topic;
     //console.log(corresp_cat.name)
     if (corresp_cat.name == "generic"){
-        cs.arguments = [sg_keywords_by_cat_eng["Generic (Police and Ambulance)"]];
-        if (lang_code != "eng"){
-            let loc_obj = {};
-            loc_obj.arguments = [sg_keywords_by_cat_transl["Generic (Police and Ambulance)"]]
-            redirect_flow.localization[lang_code][cs.uuid] = loc_obj 
-        };
+        topic = "Generic (Police and Ambulance)";    
+
     } else if (corresp_cat.name == "mental health"){
-        cs.arguments = [sg_keywords_by_cat_eng["Mental Health"]];
-        if (lang_code != "eng"){
-            let loc_obj = {};
-            loc_obj.arguments = [sg_keywords_by_cat_transl["Mental Health"]];
-            redirect_flow.localization[lang_code][cs.uuid] = loc_obj 
-        };
+        topic = "Mental Health";
+
     } else if (corresp_cat.name == "health"){
-        cs.arguments = [sg_keywords_by_cat_eng["Health"]];
-        if (lang_code != "eng"){
-            let loc_obj = {};
-            loc_obj.arguments = [sg_keywords_by_cat_transl["Health"]];
-            redirect_flow.localization[lang_code][cs.uuid] = loc_obj 
-        };
+        topic = "Health";
+
     } else if (corresp_cat.name == "violence"){
-        cs.arguments = [sg_keywords_by_cat_eng["Violence"]];
-        if (lang_code != "eng"){
-            let loc_obj = {};
-            loc_obj.arguments = [sg_keywords_by_cat_transl["Violence"]];
-            redirect_flow.localization[lang_code][cs.uuid] =  loc_obj
-        };
+        topic = "Violence";
+
     } else if (corresp_cat.name == "natural disasters"){
-        cs.arguments = [sg_keywords_by_cat_eng["Natural Disasters"]];
-        if (lang_code != "eng"){
-            let loc_obj = {};
-            loc_obj.arguments = [sg_keywords_by_cat_transl["Natural Disasters"]];
-            redirect_flow.localization[lang_code][cs.uuid] =  loc_obj
-        };
+        topic = "Natural Disasters";
+        
     } else if (corresp_cat.name == "Help"){
-        cs.arguments = [sg_keywords_by_cat_eng["Help"]];
-        if (lang_code != "eng"){
-            let loc_obj = {};
-            loc_obj.arguments = [sg_keywords_by_cat_transl["Help"]];
-            redirect_flow.localization[lang_code][cs.uuid] = loc_obj
-         };
+        topic = "Help";
+        
     }else if (corresp_cat.name == "Sos"){
-        cs.arguments = [sg_keywords_by_cat_eng["SOS"]];
-        if (lang_code != "eng"){
-            let loc_obj = {};
-            loc_obj.arguments = [sg_keywords_by_cat_transl["SOS"]] ;
-            redirect_flow.localization[lang_code][cs.uuid] = loc_obj};
+        topic = "SOS";
+
     }else {
-console.error("category name not recognised");
+    console.error("category name not recognised");
+
     }
+    add_safeguarding_localization(redirect_flow,cs,topic);
 })
 
 
@@ -163,7 +135,7 @@ console.error("category name not recognised");
 let new_flows = JSON.stringify(plh_flows, null, 2);
 
 
-//var output_path = path.join(__dirname, "./output/flows_safeguarding.json");
+
 
 var output_path = input_args[2];
 fs.writeFile(output_path, new_flows, function (err, result) {
@@ -225,7 +197,7 @@ function process_wfr_node(node, flow, sg_keywords_eng, sg_keywords_transl, lang_
 
 
 
-function add_safeguarding_cat(flow, wfr_node, dest_uuid, sg_keywords_eng, sg_keywords_transl, lang_code) {
+function add_safeguarding_cat(flow, wfr_node, dest_uuid, sg_keywords_eng, sg_keywords_transl) {
     //create case object
     var sg_case = {};
     sg_case["arguments"] = [sg_keywords_eng];
@@ -235,12 +207,21 @@ function add_safeguarding_cat(flow, wfr_node, dest_uuid, sg_keywords_eng, sg_key
 
     wfr_node.router.cases.push(sg_case);
 
+
     // add translation to flow localization
-    if (lang_code != "eng" && flow.hasOwnProperty("localization") && flow.localization.hasOwnProperty(lang_code)){
+    for (let lang_code in sg_keywords_transl){
+        if (!flow.hasOwnProperty("localization")){
+            flow.localization = {};
+        }
+        if (!flow.localization.hasOwnProperty(lang_code)){
+            flow.localization.hasOwnProperty(lang_code) = {};
+        }
         let loc_obj = {};
-        loc_obj.arguments = [sg_keywords_transl];
+        loc_obj.arguments = [sg_keywords_transl[lang_code]];
         flow.localization[lang_code][sg_case.uuid] = loc_obj;
     }
+        
+    
 
     //create corresponding category object
     var sg_cat = {};
@@ -260,6 +241,23 @@ function add_safeguarding_cat(flow, wfr_node, dest_uuid, sg_keywords_eng, sg_key
 
 }
 
+
+
+function add_safeguarding_localization(flow,cs,topic){
+    cs.arguments = [sg_keywords_by_cat_eng[topic]];
+
+    for (let lang_code in sg_keywords_by_cat_transl[topic]){
+        if (!flow.hasOwnProperty("localization")){
+            flow.localization = {};
+        }
+        if (!flow.localization.hasOwnProperty(lang_code)){
+            flow.localization.hasOwnProperty(lang_code) = {};
+        }
+        let loc_obj = {};
+        loc_obj.arguments = [sg_keywords_by_cat_transl[topic][lang_code]];
+        flow.localization[lang_code][cs.uuid] = loc_obj 
+    }
+}
 
 function generate_enter_flow_node(nodeId, dest_uuid, flow_name, flow_uuid) {
     let enter_flow_node = {

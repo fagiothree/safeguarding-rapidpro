@@ -17,10 +17,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukuxhwila",
-                    "ukuxhwila",
-                    "umxhwili",
-                    "uxhwiliwe"
+                    "thopa",
+                    "go thopa",
+                    "mothopi",
+                    "thopilwe"
                 ],
                 "mispellings": []
             }
@@ -39,9 +39,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukufa",
-                    "ufile",
-                    "uyafa"
+                    "loso",
+                    "sule",
+                    "go swa"
                 ],
                 "mispellings": []
             }
@@ -59,7 +59,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "ayikho mthethweni"
+                    "tlolomolao"
                 ],
                 "mispellings": []
             }
@@ -67,20 +67,21 @@
         {
             "English": {
                 "keywords": [
-                    "poision",
-                    "poisioning",
-                    "poisioned"
+                    "poison",
+                    "poisoning",
+                    "poisoned"
                 ],
                 "mispellings": [
                     "pesian",
-                    "boisoned"
+                    "boisoned",
+					"poision",
+					"poisioning",
+					"poisioned"
                 ]
             },
             "Translation": {
                 "keywords": [
-                    "ityhefu",
-                    "uyatyhefa",
-                    "utyehfekile"
+                    "tjhefu"
                 ],
                 "mispellings": []
             }
@@ -98,8 +99,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "ingxaki",
-                    "ingxaki"
+                    "mathata",
+                    "mathata"
                 ],
                 "mispellings": []
             }
@@ -120,10 +121,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "ingxaki",
-                    "iyakhathaza",
-                    "uyingxaki",
-                    "ukhathazekile"
+                    "bothata",
+                    "neelana ka bothata",
+                    "tshwenya",
+                    "go imetswe"
                 ],
                 "mispellings": []
             }
@@ -142,8 +143,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "ixhobo",
-                    "ukuxhatshazwa"
+                    "motswasetlhabelo",
+                    "salwa morago"
                 ],
                 "mispellings": []
             }
@@ -152,7 +153,6 @@
             "English": {
                 "keywords": [
                     "emergency",
-                    "SOS",
                     "911"
                 ],
                 "mispellings": [
@@ -163,9 +163,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "ungxamiseko",
-                    "Sincedni",
-                    "112"
+                    "tshoganyetso"
                 ],
                 "mispellings": []
             }
@@ -185,9 +183,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ingozi",
-                    "iyingozi",
-                    "usengozini"
+                    "kotsi",
+                    "kotsi",
+                    "mo kotsing"
                 ],
                 "mispellings": []
             }
@@ -206,7 +204,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukuchwechwela"
+                    "go tsomana"
                 ],
                 "mispellings": []
             }
@@ -227,9 +225,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "landela",
-                    "uyalandela",
-                    "ulandelwe"
+                    "latela",
+                    "go latela",
+                    "latetse"
                 ],
                 "mispellings": []
             }
@@ -245,9 +243,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "intlungu",
-                    "ukuba sentlungwini",
-                    "ube sentlungwini"
+                    "sokola",
+                    "go sokola",
+                    "sokotse"
                 ],
                 "mispellings": []
             }
@@ -263,9 +261,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "zimela",
-                    "ukuzimela",
-                    "uzimela"
+                    "fitlha",
+                    "go fitlha"
                 ],
                 "mispellings": []
             }
@@ -287,9 +284,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukugabha",
-                    "ugabhile",
-                    "uyagabha"
+                    "tlhatsa",
+                    "tlhatsitse",
+                    "go tlhatsa"
                 ],
                 "mispellings": []
             }
@@ -305,9 +302,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukugabha",
-                    "uyagabha",
-                    "ugabhile"
+                    "kgwa",
+                    "go kgwa",
+                    "kgwile"
                 ],
                 "mispellings": []
             }
@@ -327,9 +324,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "isifo",
-                    "isifo esosulelwa ngesondo",
-                    "izifo"
+                    "bolwetse",
+                    "malwetse"
                 ],
                 "mispellings": []
             }
@@ -348,9 +344,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukugula",
-                    "isigulo",
-                    "isigulana"
+                    "lwala",
+                    "bolwetse",
+                    "lwala"
                 ],
                 "mispellings": []
             }
@@ -370,9 +366,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukugula",
-                    "isigulo",
-                    "izigulo"
+                    "lwala",
+                    "bolwetse",
+                    "malwetse"
                 ],
                 "mispellings": []
             }
@@ -391,8 +387,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "impilo",
-                    "empilweni"
+                    "itekanela",
+                    "itekanetse"
                 ],
                 "mispellings": []
             }
@@ -410,8 +406,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "isibhedlele",
-                    "iklinikhi"
+                    "bookelo",
+                    "tliniki"
                 ],
                 "mispellings": []
             }
@@ -429,8 +425,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukuphuma isisu",
-                    "ukusweleka esibelekweni"
+                    "go fetelwa"
                 ],
                 "mispellings": []
             }
@@ -450,14 +445,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukhulelwa",
-                    "ekukhulelwa",
-                    "khulelwe"
+                    "imilwe",
+                    "boimana",
+                    "imile"
                 ],
-                "mispellings": [
-                    "mithi",
-                    "mitha"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -475,10 +467,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "Ukuqhomfa",
-                    "qhomfa",
-                    "qhomfile",
-                    "uyaqhomfa"
+                    "ntsha mpa",
+                    "ntsha mpa",
+                    "ntshitse mpa",
+                    "go ntsha mpa"
                 ],
                 "mispellings": []
             }
@@ -489,14 +481,6 @@
                     "COVID",
                     "COVID19",
                     "COVID-19"
-                ],
-                "mispellings": []
-            },
-            "Translation": {
-                "keywords": [
-                    "IKhorona",
-                    "IKhorona",
-                    "IKhorona"
                 ],
                 "mispellings": []
             }
@@ -518,27 +502,28 @@
             },
             "Translation": {
                 "keywords": [
-                    "ixhala",
-                    "inkxalabo",
-                    "ukuba nehala"
+                    "ketsaetsego",
+                    "etsaetsega"
                 ],
                 "mispellings": []
             }
         },
         {
             "English": {
-                "keywords": [
-                    "despression",
-                    "despressive",
-                    "depressed"
-                ],
-                "mispellings": []
-            },
+        "keywords": [
+          "depression",
+          "depressive",
+          "depressed"
+        ],
+        "mispellings": [
+		  "despression",
+          "despressive",
+          "despressed"
+		]
+      },
             "Translation": {
                 "keywords": [
-                    "udandatheko",
-                    "udandatheko",
-                    "udandathekile"
+                    "gateletswe ke maikutlo"
                 ],
                 "mispellings": []
             }
@@ -557,8 +542,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "isigulo",
-                    "izigulo"
+                    "bothata"
                 ],
                 "mispellings": []
             }
@@ -572,7 +556,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "unyango"
+                    "teraphi"
                 ],
                 "mispellings": []
             }
@@ -586,7 +570,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "ugqirha wengqndo"
+                    "mosaekholoji"
                 ],
                 "mispellings": []
             }
@@ -605,9 +589,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukuzibulala",
-                    "ufuna ukuzibulala",
-                    "ukuzibulala"
+                    "go ipolaya",
+                    "kakanyo go ipolaya"
                 ],
                 "mispellings": []
             }
@@ -626,8 +609,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "uxinezeleko",
-                    "uxinezelelekile"
+                    "imetswe ke mathata"
                 ],
                 "mispellings": []
             }
@@ -642,13 +624,6 @@
                     "destressed",
                     "destresss"
                 ]
-            },
-            "Translation": {
-                "keywords": [
-                    "intlungu",
-                    "usentlungwini"
-                ],
-                "mispellings": []
             }
         },
         {
@@ -665,8 +640,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukudakumba",
-                    "udakumbile"
+                    "hutsafetse",
+                    "hutsafaditswe"
                 ],
                 "mispellings": []
             }
@@ -684,8 +659,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "koyika",
-                    "uyoyika"
+                    "tshoga",
+                    "tshogile"
                 ],
                 "mispellings": []
             }
@@ -701,7 +676,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "yoyika"
+                    "tshaba"
                 ],
                 "mispellings": []
             }
@@ -717,7 +692,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "ixhala"
+                    "tshwenyega"
                 ],
                 "mispellings": []
             }
@@ -735,8 +710,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "uloyiko",
-                    "ukoyikisa"
+                    "tshabo"
                 ],
                 "mispellings": []
             }
@@ -753,14 +727,6 @@
                     "paniked",
                     "paniking"
                 ]
-            },
-            "Translation": {
-                "keywords": [
-                    "ukuphaphazela",
-                    "uyaphaphazela",
-                    "uphaphazele"
-                ],
-                "mispellings": []
             }
         },
         {
@@ -775,7 +741,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "uphambene"
+                    "tsenwa"
                 ],
                 "mispellings": []
             }
@@ -783,18 +749,18 @@
         {
             "English": {
                 "keywords": [
-                    "greif"
+                    "grief"
                 ],
                 "mispellings": [
-                    "grief",
+                    "greif",
                     "griev"
                 ]
             },
             "Translation": {
-                "keywords": [
-                    "intlungu yokufelwa"
-                ],
-                "mispellings": []
+                "keywords": [],
+                "mispellings": [
+                    "kutlobotlhoko"
+                ]
             }
         }
     ],
@@ -814,10 +780,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "umlilo",
-                    "umlilo wamahlathi"
+                    "molelo",
+                    "molelo wa naga"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "shele"
+                ]
             }
         },
         {
@@ -836,11 +804,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "inyikima",
-                    "ukhukhuliseko umhlaba",
-                    "ukuwa"
+                    "thoromo",
+                    "theogelelo",
+                    "wa"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "roroma"
+                ]
             }
         },
         {
@@ -859,10 +829,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "izantyalantyala",
-                    "kubekho izantyalantyala",
-                    "izantyalantyala",
-                    "unogumbe"
+                    "morwalela"
                 ],
                 "mispellings": []
             }
@@ -880,8 +847,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "umsi",
-                    "kubekho umsi"
+                    "mosi",
+                    "go mosi"
                 ],
                 "mispellings": []
             }
@@ -903,9 +870,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "isitshingitshane"
+                    "thaefuni",
+                    "ditsuatsue",
+                    "kgwanyape",
+                    "ledimo"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "sefefo",
+                    "pula",
+                    "metsi",
+                    "go sefefo"
+                ]
             }
         },
         {
@@ -921,9 +896,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "imbalela",
-                    "ukoma",
-                    "inkqantosi"
+                    "dikomelelo",
+                    "omile"
                 ],
                 "mispellings": []
             }
@@ -941,10 +915,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "ugqabhulo dubulo",
-                    "ivolkano"
+                    "thunyo ya lekgwamolelo"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "molelo",
+                    "bolelo"
+                ]
             }
         },
         {
@@ -960,11 +936,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "umoya",
-                    "ukuvuthuzela",
-                    "kukho umoya"
+                    "phefo",
+                    "thubego",
+                    "go phefo"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "mowa"
+                ]
             }
         }
     ],
@@ -984,9 +962,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "betha",
-                    "ukubetha",
-                    "uyabetha"
+                    "itaya",
+                    "go itaya",
+                    "betsa"
                 ],
                 "mispellings": []
             }
@@ -1007,9 +985,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ubethe",
-                    "uyabetha",
-                    "ubetha"
+                    "betsa",
+                    "go betsa",
+                    "itaya"
                 ],
                 "mispellings": []
             }
@@ -1030,10 +1008,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "xhaphaza",
-                    "umxhaphazi",
-                    "ukuxhaphaza",
-                    "Uxhaphaze"
+                    "tshotlakako",
+                    "tshotlo",
+                    "go sotla",
+                    "sotliwa"
                 ],
                 "mispellings": []
             }
@@ -1051,8 +1029,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "ubundlobongela",
-                    "ubundlobongela"
+                    "dikgoka",
+                    "tirisodikgoka"
                 ],
                 "mispellings": []
             }
@@ -1072,12 +1050,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "intlungu",
-                    "ibuhlungi",
-                    "iintlungu",
-                    "iyaqaqamba"
+                    "botlhoko",
+                    "go botlhoko",
+                    "ditlhabi",
+                    "go nna le ditlhabi"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "pene"
+                ]
             }
         },
         {
@@ -1095,9 +1075,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "igazi",
-                    "ukopha",
-                    "wophile"
+                    "madi",
+                    "go tswa madi",
+                    "tswile madi"
                 ],
                 "mispellings": []
             }
@@ -1117,9 +1097,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "umgruzuko",
-                    "ukugruzuka",
-                    "ugruzukile"
+                    "mengwapo",
+                    "go ngapega",
+                    "ngapega"
                 ],
                 "mispellings": []
             }
@@ -1138,11 +1118,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "wonzakele",
-                    "wonzakalisa",
-                    "wonzakalisa"
+                    "kgopisa",
+                    "go kgopisa",
+                    "utlwisa"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "kgopisegile"
+                ]
             }
         },
         {
@@ -1158,9 +1140,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "intlungu",
-                    "kubuhlungu",
-                    "bekubuhlungu"
+                    "botlhoko",
+                    "go botlhoko"
                 ],
                 "mispellings": []
             }
@@ -1177,8 +1158,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "umonzakalo",
-                    "ukonzakalisa"
+                    "kgobalo",
+                    "gobetse"
                 ],
                 "mispellings": []
             }
@@ -1195,8 +1176,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukusika",
-                    "usike"
+                    "kgaola",
+                    "go kgaola"
                 ],
                 "mispellings": []
             }
@@ -1218,10 +1199,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukonzakalisa",
-                    "ukonzakalisa",
-                    "yingozi",
-                    "wonzakalise"
+                    "kotsi",
+                    "go tlhola kotsi",
+                    "go kotsi",
+                    "mo kotsing"
                 ],
                 "mispellings": []
             }
@@ -1242,11 +1223,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukuqhwaba ngempama",
-                    "umqhwabe ngempama",
-                    "umqhwaba ngempama"
+                    "tlelapa",
+                    "tlepapile",
+                    "go tlelapa"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "thelela"
+                ]
             }
         },
         {
@@ -1261,10 +1244,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukubetha ngengqindi",
-                    "umbethe ngenqindi",
-                    "ubetha ngamanqindi",
-                    "umbetha ngamanqindi"
+                    "lebole",
+                    "iteile ka lebole",
+                    "go itaya ka mabole",
+                    "mabole"
                 ],
                 "mispellings": []
             }
@@ -1285,10 +1268,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukubulala",
-                    "uyabulala",
-                    "ubulele",
-                    "ubulele"
+                    "bolaya",
+                    "go bolaya",
+                    "bolaile",
+                    "bolaya"
                 ],
                 "mispellings": []
             }
@@ -1309,10 +1292,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukubulala",
-                    "umbulali",
-                    "ukubulala",
-                    "ubulele"
+                    "bolaya",
+                    "mmolai",
+                    "go bolaya",
+                    "bolaile"
                 ],
                 "mispellings": []
             }
@@ -1332,9 +1315,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukumbakraza",
-                    "ukumbakraza",
-                    "umbakrazile"
+                    "thubaganya",
+                    "go thubaganya",
+                    "thubagane"
                 ],
                 "mispellings": []
             }
@@ -1352,9 +1335,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukubetha"
+                    "futswela"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "fa tlase",
+                    "bora"
+                ]
             }
         },
         {
@@ -1369,9 +1355,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukubetha ngoswazi"
+                    "kheine"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "kota",
+                    "kgona"
+                ]
             }
         },
         {
@@ -1386,7 +1375,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "ibhanti"
+                    "lebanta"
                 ],
                 "mispellings": []
             }
@@ -1406,9 +1395,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukuhlaba",
-                    "uyamhlaba",
-                    "umhlabile"
+                    "tlhaba",
+                    "go tlhaba",
+                    "tlhabile"
                 ],
                 "mispellings": []
             }
@@ -1428,9 +1417,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukutswina",
-                    "uyatswina",
-                    "utswinile"
+                    "goa",
+                    "go goa",
+                    "goile"
                 ],
                 "mispellings": []
             }
@@ -1449,11 +1438,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukutyhiliza",
-                    "uyamtyhiliza",
-                    "umtyhilizile"
+                    "kgorometsa",
+                    "go kgorometsa",
+                    "kgoromeditse"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "boladu"
+                ]
             }
         },
         {
@@ -1471,9 +1462,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukutyhiliza",
-                    "ukutshova",
-                    "umtshovile"
+                    "kgorometsa",
+                    "go kgorometsa",
+                    "kgoromeditse"
                 ],
                 "mispellings": []
             }
@@ -1493,9 +1484,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukukhaba",
-                    "uyamkhaba",
-                    "umkhabile"
+                    "raga",
+                    "go raga",
+                    "ragile"
                 ],
                 "mispellings": []
             }
@@ -1515,9 +1506,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukubetha",
-                    "uyambetha",
-                    "umbethile"
+                    "itaya",
+                    "go itaya"
                 ],
                 "mispellings": []
             }
@@ -1536,10 +1526,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukungcungcuthekisa",
-                    "umngcungcuthekisile"
+                    "tlhokofaditswe",
+                    "tlhokofaditswe"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "tlhokofatsa"
+                ]
             }
         },
         {
@@ -1557,9 +1549,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukujwila",
-                    "uyajwila",
-                    "ujwilile"
+                    "konopa",
+                    "go konopa",
+                    "konopa"
                 ],
                 "mispellings": []
             }
@@ -1580,9 +1572,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "Dlwengula",
-                    "uyadlwengula",
-                    "isidlwengu"
+                    "petelelo",
+                    "go betelela",
+                    "mmeteledi"
                 ],
                 "mispellings": []
             }
@@ -1602,9 +1594,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukudlwengula",
-                    "udlwengulo",
-                    "umdlwengule"
+                    "nyatsa",
+                    "lenyatso",
+                    "go nyatsa"
                 ],
                 "mispellings": []
             }
@@ -1625,12 +1617,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "isondo",
-                    "yesondo",
-                    "ngokwesondo",
-                    "umyalezo wesondo"
+                    "thobalano",
+                    "bong"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "mokwalo wa thobalano"
+                ]
             }
         },
         {
@@ -1647,9 +1639,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukunyanzela",
-                    "unyanzele",
-                    "uyanyanzela"
+                    "gatelale",
+                    "gateletse",
+                    "go gatelela"
                 ],
                 "mispellings": []
             }
@@ -1669,9 +1661,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "uxinezelelo",
-                    "uxinezele",
-                    "uyaxinezela"
+                    "gatelela",
+                    "gateletswe",
+                    "go gatelela"
                 ],
                 "mispellings": []
             }
@@ -1690,9 +1682,8 @@
             },
             "Translation": {
                 "keywords": [
-                    "onyanzelisayo",
-                    "ukunyanzela",
-                    "unyanzelwe"
+                    "kgokgoetsa",
+                    "kgokgoediwa"
                 ],
                 "mispellings": []
             }
@@ -1711,9 +1702,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukungaziphathi kakuhle",
-                    "engafanelekanga",
-                    "engamkelekanga"
+                    "maitsholomabe",
+                    "ga go maleba",
+                    "ga go amogelege"
                 ],
                 "mispellings": []
             }
@@ -1731,9 +1722,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukuhlukumeza",
-                    "ukuchwechwela",
-                    "ukwenza into ephosakeleyo"
+                    "tshosetso",
+                    "go latelela",
+                    "motlatlapi"
                 ],
                 "mispellings": []
             }
@@ -1750,11 +1741,44 @@
             },
             "Translation": {
                 "keywords": [
-                    "ukutyhola",
-                    "uyatyhola"
+                    "bona phoso",
+                    "go bona phoso"
                 ],
                 "mispellings": []
             }
         }
-    ]
+    ],
+	"Help":[
+	{
+            "English": {
+                "keywords": [
+                    "Help"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "thuso",
+					"thusa"
+                ],
+				"mispellings": []
+            }
+        }
+	],
+	"SOS":[
+	{
+            "English": {
+                "keywords": [
+                    "SOS"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "SOS" 
+                ],
+				"mispellings": []
+            }
+        }
+	]
 }

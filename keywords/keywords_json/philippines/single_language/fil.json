@@ -17,12 +17,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "koetela",
-                    "ho koetela",
-                    "mokoetli",
-                    "koeteloa"
+                    "kidnap",
+                    "pangingidnap",
+                    "kidnapper",
+                    "na-kidnap"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "kiddnapp",
+                    "kidnapp",
+                    "kiddnap",
+                    "kidnape"
+                ]
             }
         },
         {
@@ -39,12 +44,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "lefu",
-                    "hlokahala",
-                    "ho shoa/ ho hlokahala"
+                    "kamatayan",
+                    "patay",
+                    "mamamatay"
                 ],
                 "mispellings": [
-                    "ho shoa"
+                    "patya"
                 ]
             }
         },
@@ -61,7 +66,7 @@
             },
             "Translation": {
                 "keywords": [
-                    "e seng molaong"
+                    "ilegal"
                 ],
                 "mispellings": []
             }
@@ -69,22 +74,27 @@
         {
             "English": {
                 "keywords": [
-                    "poision",
-                    "poisioning",
-                    "poisioned"
+                    "poison",
+                    "poisoning",
+                    "poisoned"
                 ],
                 "mispellings": [
                     "pesian",
-                    "boisoned"
+                    "boisoned",
+					"poision",
+                    "poisioning",
+                    "poisioned"
                 ]
             },
             "Translation": {
                 "keywords": [
-                    "chefo",
-                    "chefo"
+                    "lason",
+                    "paglason",
+                    "nilason"
                 ],
                 "mispellings": [
-                    "poisen"
+                    "lasun",
+                    "lasno"
                 ]
             }
         },
@@ -101,11 +111,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "tsietsi",
-                    "li tsietsi"
+                    "krisis",
+                    "krisis"
                 ],
                 "mispellings": [
-                    "mathata"
+                    "krises",
+                    "kresis"
                 ]
             }
         },
@@ -125,12 +136,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "bothata",
-                    "tshoenyang",
-                    "khathatso",
-                    "khathatsehile"
+                    "gulo",
+                    "nakakabahala",
+                    "magulo",
+                    "nababahala"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "golo",
+                    "magolo"
+                ]
             }
         },
         {
@@ -147,11 +161,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "phofu",
-                    "hlasetsoe"
+                    "biktima",
+                    "nabiktima"
                 ],
                 "mispellings": [
-                    "victhimi"
+                    "bktima",
+                    "bektema"
                 ]
             }
         },
@@ -159,7 +174,6 @@
             "English": {
                 "keywords": [
                     "emergency",
-                    "SOS",
                     "911"
                 ],
                 "mispellings": [
@@ -170,11 +184,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshohanyetso",
+                    "emergency",
                     "911"
                 ],
                 "mispellings": [
-                    "emegenci"
+                    "emergincy",
+                    "emergincey",
+                    "emergince"
                 ]
             }
         },
@@ -193,15 +209,28 @@
             },
             "Translation": {
                 "keywords": [
-                    "kotsi",
-                    "kotsi",
-                    "kotsing"
+                    "panganib",
+                    "mapanganib",
+                    "nanganganib"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "panganeb"
+                ]
             }
         },
         {
             "English": {
+                "keywords": [
+                    "stalking"
+                ],
+                "mispellings": [
+                    "staling",
+                    "staking",
+                    "stakling",
+                    "stalkin"
+                ]
+            },
+            "Translation": {
                 "keywords": [
                     "stalking"
                 ],
@@ -229,11 +258,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "latela",
-                    "lateloa"
+                    "sundan",
+                    "sinusundan",
+                    "sinundan"
                 ],
                 "mispellings": [
-                    "ntatela"
+                    "sondan",
+                    "sudan",
+                    "sinondan"
                 ]
             }
         },
@@ -248,12 +280,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "sotleha",
-                    "sotleha",
-                    "sotlehile"
+                    "magdusa",
+                    "nagdurusa",
+                    "nagdusa"
                 ],
                 "mispellings": [
-                    "sokola"
+                    "dosa"
                 ]
             }
         },
@@ -268,12 +300,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "pata",
-                    "ho ipata",
-                    "patiloe"
+                    "tago",
+                    "nagtatago",
+                    "nagtago"
                 ],
                 "mispellings": [
-                    "fihla"
+                    "tagu"
                 ]
             }
         }
@@ -294,12 +326,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "hlatsa",
-                    "hlatsitse",
-                    "ho hlatsa"
+                    "suka",
+                    "sumuka",
+                    "sumusuka"
                 ],
                 "mispellings": [
-                    "hlalitse"
+                    "dura",
+                    "soka"
                 ]
             }
         },
@@ -314,9 +347,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "mahlatsa"
+                    "suka",
+                    "sumusuka",
+                    "sumuka"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "soka"
+                ]
             }
         },
         {
@@ -334,12 +371,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "lefu",
+                    "sakit",
                     "STD",
-                    "mafu"
+                    "mga sakit"
                 ],
                 "mispellings": [
-                    "ho kula"
+                    "saket",
+                    "SDT"
                 ]
             }
         },
@@ -357,11 +395,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "kula",
-                    "ho kula"
+                    "maysakit",
+                    "sakit",
+                    "sakitin"
                 ],
                 "mispellings": [
-                    "sik"
+                    "saket"
                 ]
             }
         },
@@ -380,11 +419,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "kula",
-                    "bokuli"
+                    "maysakit",
+                    "sakit",
+                    "mga sakit"
                 ],
                 "mispellings": [
-                    "bokudi"
+                    "saket"
                 ]
             }
         },
@@ -402,10 +442,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "bophelo bo botle"
+                    "kalusugan",
+                    "malusog"
                 ],
                 "mispellings": [
-                    "bophelo"
+                    "malosog",
+                    "malosug",
+                    "kalusogan"
                 ]
             }
         },
@@ -422,11 +465,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "sepetlele",
-                    "tleniki"
+                    "ospital",
+                    "klinika"
                 ],
                 "mispellings": [
-                    "tliniki"
+                    "hospital",
+                    "opsital"
                 ]
             }
         },
@@ -443,9 +487,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "ho senyeheloa ke mpa"
+                    "pagkalaglag",
+                    "pagkalaglag"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "lalag"
+                ]
             }
         },
         {
@@ -463,12 +510,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "ho ima",
-                    "boimana"
+                    "buntis",
+                    "pagbubuntis",
+                    "nagdadalantao"
                 ],
                 "mispellings": [
-                    "o meleng",
-                    "pregnanci"
+                    "bontis",
+                    "bontes"
                 ]
             }
         },
@@ -477,7 +525,7 @@
                 "keywords": [
                     "abortion",
                     "abort",
-                    "abortted",
+                    "aborted",
                     "aborting"
                 ],
                 "mispellings": [
@@ -487,12 +535,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "ho ntsha mpa",
-                    "ntsa mpa",
-                    "ntsa mpa"
+                    "abortion",
+                    "ipalaglag",
+                    "nagpa-abort",
+                    "ipapalaglag"
                 ],
                 "mispellings": [
-                    "aboshini"
+                    "abbortion",
+                    "obortion"
                 ]
             }
         },
@@ -511,9 +561,7 @@
                     "COVID19",
                     "COVID-19"
                 ],
-                "mispellings": [
-                    "COVIT"
-                ]
+                "mispellings": []
             }
         }
     ],
@@ -533,33 +581,38 @@
             },
             "Translation": {
                 "keywords": [
-                    "matsoenyeho",
-                    "tsoenyehile",
-                    "matsoenyeho"
+                    "pagkabalisa",
+                    "balisa",
+                    "pagkabalisa"
                 ],
                 "mispellings": [
-                    "Anzieti",
-                    "anxieti",
-                    "tshohile"
+                    "balesa",
+                    "basila"
                 ]
             }
         },
         {
             "English": {
-                "keywords": [
-                    "despression",
-                    "despressive",
-                    "depressed"
-                ],
-                "mispellings": []
-            },
+        "keywords": [
+          "depression",
+          "depressive",
+          "depressed"
+        ],
+        "mispellings": [
+		  "despression",
+          "despressive",
+          "despressed"
+		]
+      },
             "Translation": {
                 "keywords": [
-                    "khatello ea maikutlo",
-                    "tepelletse maikutlong"
+                    "pagka-depress",
+                    "nadi-depress",
+                    "na-depress"
                 ],
                 "mispellings": [
-                    "depreshini"
+                    "dipress",
+                    "depres"
                 ]
             }
         },
@@ -577,9 +630,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "pherekano"
+                    "karamdaman",
+                    "mga karamdaman"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "karadaman"
+                ]
             }
         },
         {
@@ -591,11 +647,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "kalafo"
+                    "therapy"
                 ],
-                "mispellings": [
-                    "phekolo"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -607,12 +661,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "saekholojist",
-                    "setsebi sa kelello"
+                    "psychologist"
                 ],
-                "mispellings": [
-                    "ngaka ea kellelo"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -628,9 +679,13 @@
                 ]
             },
             "Translation": {
-                "keywords": [],
+                "keywords": [
+                    "suicide",
+                    "gustong magpakamatay",
+                    "mga suicide"
+                ],
                 "mispellings": [
-                    "ho ipolaya"
+                    "pagpapatiwakal"
                 ]
             }
         },
@@ -647,9 +702,14 @@
                 ]
             },
             "Translation": {
-                "keywords": [],
+                "keywords": [
+                    "stress",
+                    "nakakaramdam ng stress"
+                ],
                 "mispellings": [
-                    "setresse"
+                    "stresss",
+                    "strees",
+                    "srtess"
                 ]
             }
         },
@@ -666,10 +726,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "mahlomola",
-                    "tsielehile"
+                    "pagkabalisa",
+                    "balisa"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "basila",
+                    "balesa"
+                ]
             }
         },
         {
@@ -686,12 +749,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "hloname",
-                    "hlomohile"
+                    "lungkot",
+                    "nalungkot"
                 ],
                 "mispellings": [
-                    "kwatile",
-                    "utloa bohloko"
+                    "longkot"
                 ]
             }
         },
@@ -708,10 +770,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshosa",
-                    "tshohile"
+                    "takot",
+                    "natatakot"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "takut"
+                ]
             }
         },
         {
@@ -725,9 +789,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshoha"
+                    "natatakot"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "takut"
+                ]
             }
         },
         {
@@ -741,11 +807,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "tsoenyehile"
+                    "nag-aalala"
                 ],
-                "mispellings": [
-                    "kgathatsehile"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -761,10 +825,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "letshoho",
-                    "tshosa"
+                    "takot",
+                    "takutin"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "takut"
+                ]
             }
         },
         {
@@ -782,12 +848,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshabo",
-                    "ho tshoha",
-                    "tshohile"
+                    "pagkataranta",
+                    "natataranta",
+                    "nataranta"
                 ],
                 "mispellings": [
-                    "tshoha"
+                    "tarata"
                 ]
             }
         },
@@ -803,29 +869,31 @@
             },
             "Translation": {
                 "keywords": [
-                    "ho sa phela",
-                    "kwata"
+                    "galit"
                 ],
                 "mispellings": [
-                    "hlanya"
+                    "galet"
                 ]
             }
         },
         {
             "English": {
                 "keywords": [
-                    "greif"
+                    "grief"
                 ],
                 "mispellings": [
-                    "grief",
+                    "greif",
                     "griev"
                 ]
             },
             "Translation": {
                 "keywords": [
-                    "mesarolo"
+                    "dalamhati"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "kalungkutan",
+                    "dalahamti"
+                ]
             }
         }
     ],
@@ -845,10 +913,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "mollo",
-                    "mollo o hlaha"
+                    "sunog",
+                    "sunog"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "apoy",
+                    "sonog"
+                ]
             }
         },
         {
@@ -867,14 +938,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshisinyeho ea lefatshe",
-                    "ho ritsa ha mobu",
-                    "putlama"
+                    "lindol",
+                    "Landslide",
+                    "pagguho"
                 ],
                 "mispellings": [
-                    "earthquake",
-                    "mobu",
-                    "ho wa"
+                    "pagyanig",
+                    "lendol"
                 ]
             }
         },
@@ -894,13 +964,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "moewallo / metsi",
-                    "tletse metsi",
-                    "likhohola"
+                    "baha",
+                    "binaha",
+                    "binabaha",
+                    "bagyo"
                 ],
-                "mispellings": [
-                    "flud"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -916,10 +985,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "mosi"
+                    "usok",
+                    "umusok"
                 ],
                 "mispellings": [
-                    "smoko"
+                    "osok"
                 ]
             }
         },
@@ -940,14 +1010,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "sefefo",
-                    "leholiotsoana",
-                    "leholiotsoana",
-                    "leholiotsoana"
+                    "bagyo",
+                    "bagyo",
+                    "buhawi",
+                    "bagyo"
                 ],
                 "mispellings": [
-                    "moya",
-                    "cyclioni"
+                    "ipo-ipo",
+                    "ulan",
+                    "tubig"
                 ]
             }
         },
@@ -964,11 +1035,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "komello",
-                    "omme",
-                    "omeletse"
+                    "tagtuyot",
+                    "tuyot",
+                    "tuyot"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "tuyo"
+                ]
             }
         },
         {
@@ -984,11 +1057,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "ho foqoha ha seretse se chesang",
-                    "seretse se chesang"
+                    "pagputok ng bulkan",
+                    "bulkan"
                 ],
                 "mispellings": [
-                    "volkano"
+                    "apoy",
+                    "mainit"
                 ]
             }
         },
@@ -1005,12 +1079,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "moea",
-                    "qhoma",
-                    "moea e fokang"
+                    "hangin",
+                    "mahangin",
+                    "mahangin"
                 ],
                 "mispellings": [
-                    "moya"
+                    "hangin",
+                    "habagat"
                 ]
             }
         }
@@ -1031,12 +1106,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "otla",
-                    "ho otla",
-                    "otla"
+                    "palo",
+                    "pinapalo",
+                    "pinapalo"
                 ],
                 "mispellings": [
-                    "shapa"
+                    "hampas"
                 ]
             }
         },
@@ -1056,10 +1131,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "otla"
+                    "bugbog",
+                    "binubugbog",
+                    "binubugbog"
                 ],
                 "mispellings": [
-                    "kotlo"
+                    "hampas",
+                    "sapak",
+                    "salpukin"
                 ]
             }
         },
@@ -1079,14 +1158,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "tlhekefetso",
-                    "hlekefetsa",
-                    "hlekefetsa",
-                    "hlekefetsoa"
+                    "abuso",
+                    "nang-aabuso",
+                    "nang-aabuso",
+                    "inabuso"
                 ],
-                "mispellings": [
-                    "abuzi"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -1102,12 +1179,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "mabifi",
-                    "pefo"
+                    "malupit",
+                    "pagmamalupit",
+                    "bayolente"
                 ],
-                "mispellings": [
-                    "ntoa"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -1125,12 +1201,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "bohloko",
-                    "bohloko"
+                    "sakit",
+                    "masakit",
+                    "mga sakit",
+                    "sumasakit"
                 ],
-                "mispellings": [
-                    "mahloko"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -1148,13 +1224,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "mali",
-                    "ho tsoa madi",
-                    "dutla madi"
+                    "dugo",
+                    "dumudugo",
+                    "dinugo"
                 ],
-                "mispellings": [
-                    "madi"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -1172,8 +1246,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "ho lemala",
-                    "lemetse"
+                    "pasa",
+                    "pasa",
+                    "nagkapasa"
                 ],
                 "mispellings": []
             }
@@ -1192,8 +1267,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "bohloko",
-                    "ho utloisa bohloko"
+                    "nasaktan",
+                    "nasasaktan",
+                    "sinasaktan"
                 ],
                 "mispellings": []
             }
@@ -1211,9 +1287,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "bohloko"
+                    "sakit",
+                    "sumasakit",
+                    "sumakit"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "saket"
+                ]
             }
         },
         {
@@ -1228,11 +1308,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "kotsi",
-                    "lemala"
+                    "sugat",
+                    "nasugatan"
                 ],
                 "mispellings": [
-                    "ho lemala"
+                    "sogat"
                 ]
             }
         },
@@ -1248,10 +1328,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "kgaola"
+                    "hiwa",
+                    "hinihiwa"
                 ],
                 "mispellings": [
-                    "sehile"
+                    "laslas"
                 ]
             }
         },
@@ -1272,9 +1353,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "kotsi",
-                    "kotsi",
-                    "e kotsi"
+                    "saktan",
+                    "sinasaktan",
+                    "nakakasama",
+                    "sinaktan"
                 ],
                 "mispellings": []
             }
@@ -1295,12 +1377,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "otlanya",
-                    "ho otlanya"
+                    "sampal",
+                    "sinampal",
+                    "sinasampal"
                 ],
                 "mispellings": [
-                    "mpama",
-                    "o shapiloe ka mpama"
+                    "tampal"
                 ]
             }
         },
@@ -1316,11 +1398,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "otla ka setebele",
-                    "litebele"
+                    "suntok",
+                    "sinuntok",
+                    "sinusuntok",
+                    "sinusuntok"
                 ],
                 "mispellings": [
-                    "feyci"
+                    "sapak",
+                    "suntuk",
+                    "sontok"
                 ]
             }
         },
@@ -1340,10 +1426,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "bolaea",
-                    "ho bolaea",
-                    "bolailoe",
-                    "bolaea"
+                    "patay",
+                    "pinapatay",
+                    "pinatay",
+                    "pinapatay"
                 ],
                 "mispellings": []
             }
@@ -1364,13 +1450,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "polao",
-                    "mmolai",
-                    "bolailoe"
+                    "pumatay",
+                    "mamamatay-tao",
+                    "pagpatay",
+                    "pinatay"
                 ],
-                "mispellings": [
-                    "mollayi"
-                ]
+                "mispellings": []
             }
         },
         {
@@ -1384,6 +1469,17 @@
                     "baning",
                     "bangin",
                     "pang"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "untog",
+                    "inuuntog",
+                    "inuntog"
+                ],
+                "mispellings": [
+                    "untug",
+                    "ontog"
                 ]
             }
         },
@@ -1400,9 +1496,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "phatlola"
+                    "hampas"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "palo"
+                ]
             }
         },
         {
@@ -1417,9 +1515,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "molamu"
+                    "tungkod"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "patpat",
+                    "stick"
+                ]
             }
         },
         {
@@ -1434,10 +1535,10 @@
             },
             "Translation": {
                 "keywords": [
-                    "lebanta"
+                    "sinturon"
                 ],
                 "mispellings": [
-                    "lepanta"
+                    "senturon"
                 ]
             }
         },
@@ -1456,11 +1557,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "hlaba",
-                    "ho hlaba",
-                    "hlabiloe"
+                    "saksak",
+                    "sinasaksak",
+                    "sinaksak"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "tusok"
+                ]
             }
         },
         {
@@ -1478,9 +1581,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "hoeletsa",
-                    "ho hoeletsa",
-                    "hoeletsa"
+                    "sigaw",
+                    "sumisigaw",
+                    "sumigaw"
                 ],
                 "mispellings": []
             }
@@ -1499,12 +1602,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "sututsa",
-                    "ho sututsa",
-                    "sutusetsa"
+                    "tulak",
+                    "tinutulak",
+                    "tinulak"
                 ],
                 "mispellings": [
-                    "phusha"
+                    "tolak"
                 ]
             }
         },
@@ -1523,10 +1626,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "sututsa",
-                    "ho sututsa"
+                    "tulak",
+                    "tinutulak",
+                    "tinulak"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "tolak"
+                ]
             }
         },
         {
@@ -1544,9 +1650,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "raha",
-                    "ho raha",
-                    "rahile"
+                    "sipa",
+                    "sinisipa",
+                    "sinipa"
                 ],
                 "mispellings": []
             }
@@ -1566,10 +1672,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "otla"
+                    "hampas",
+                    "hinahampas",
+                    "hinampas"
                 ],
                 "mispellings": [
-                    "shapa"
+                    "hataw"
                 ]
             }
         },
@@ -1587,10 +1695,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "tlhokofatso",
-                    "hlokofatsoa"
+                    "pahirap",
+                    "pinahirapan"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "torture"
+                ]
             }
         },
         {
@@ -1608,11 +1718,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "lahlela",
-                    "ho lahlela",
-                    "lahla"
+                    "bato",
+                    "binabato",
+                    "binato"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "hagis",
+                    "hinagis"
+                ]
             }
         },
         {
@@ -1631,11 +1744,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "peto",
-                    "ho beta",
-                    "motho ea betileng"
+                    "Rape",
+                    "ginagahasa",
+                    "rapist"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "gahasa"
+                ]
             }
         },
         {
@@ -1653,11 +1768,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "tlola",
-                    "tlolo",
-                    "tlokotsoe"
+                    "gahasa",
+                    "panggagahasa",
+                    "ginahasa"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "rape",
+                    "nilapastangan"
+                ]
             }
         },
         {
@@ -1676,7 +1794,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "thobalano"
+                    "sex",
+                    "sekswal",
+                    "sekswal"
                 ],
                 "mispellings": []
             }
@@ -1695,12 +1815,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "hapeletsa",
-                    "qobelloang",
-                    "qobella"
+                    "pilit",
+                    "pinilit",
+                    "pinipilit"
                 ],
                 "mispellings": [
-                    "hapeletsa"
+                    "puwersa",
+                    "pinuwersa"
                 ]
             }
         },
@@ -1719,11 +1840,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "khatello",
-                    "petelitsoe",
-                    "hatellang"
+                    "puwersa",
+                    "pinuwersa",
+                    "pinipuwersa"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "pilit",
+                    "pinilit"
+                ]
             }
         },
         {
@@ -1740,11 +1864,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "qobella",
-                    "qobella",
-                    "qobelletsoe"
+                    "mapilit",
+                    "pinipilit",
+                    "pinilit"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "puwersa"
+                ]
             }
         },
         {
@@ -1761,9 +1887,9 @@
             },
             "Translation": {
                 "keywords": [
-                    "boitsoaro bo bobe",
-                    "e sa lokelang",
-                    "e sa amohelehang"
+                    "gumawa ng mali",
+                    "hindi tama",
+                    "hindi katanggap-tanggap"
                 ],
                 "mispellings": []
             }
@@ -1781,10 +1907,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "hlekefetsa",
-                    "hlekefetso"
+                    "panggugulo",
+                    "stalking",
+                    "pagkakasala"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "stolk"
+                ]
             }
         },
         {
@@ -1799,11 +1928,44 @@
             },
             "Translation": {
                 "keywords": [
-                    "molato",
-                    "ho beha molato"
+                    "sisi",
+                    "sinisisi",
+                    "paninisi"
                 ],
                 "mispellings": []
             }
         }
-    ]
+    ],
+	"Help":[
+	{
+            "English": {
+                "keywords": [
+                    "Help"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "tulong"
+                ],
+				"mispellings": []
+            }
+        }
+	],
+	"SOS":[
+	{
+            "English": {
+                "keywords": [
+                    "SOS"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "SOS" 
+                ],
+				"mispellings": []
+            }
+        }
+	]
 }

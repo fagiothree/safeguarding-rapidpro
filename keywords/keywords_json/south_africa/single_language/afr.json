@@ -17,12 +17,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "thopa",
-                    "go thopa",
-                    "mothopi",
-                    "thopilwe"
+                    "ontvoer",
+                    "ontvoering",
+                    "ontvoerder",
+                    "het ontvoer"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "ondvoer",
+                    "ontvoor",
+                    "ondvoor",
+                    "ontfoer"
+                ]
             }
         },
         {
@@ -39,11 +44,19 @@
             },
             "Translation": {
                 "keywords": [
-                    "loso",
-                    "sule",
-                    "go swa"
+                    "dood",
+                    "dooie",
+                    "doodgaan",
+                    "sterf"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "doot",
+                    "dootgan",
+                    "doodgan",
+                    "sterv",
+                    "sterwe",
+                    "doje"
+                ]
             }
         },
         {
@@ -59,28 +72,47 @@
             },
             "Translation": {
                 "keywords": [
-                    "tlolomolao"
+                    "onwettig",
+                    "onwettige"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "onwetig",
+                    "onwettag",
+                    "onwetag",
+                    "onwetige",
+                    "onwettage",
+                    "onwetage"
+                ]
             }
         },
         {
             "English": {
                 "keywords": [
-                    "poision",
-                    "poisioning",
-                    "poisioned"
+                    "poison",
+                    "poisoning",
+                    "poisoned"
                 ],
                 "mispellings": [
                     "pesian",
-                    "boisoned"
+                    "boisoned",
+					"poision",
+					"poisioning",
+					"poisioned"
                 ]
             },
             "Translation": {
                 "keywords": [
-                    "tjhefu"
+                    "gif",
+                    "vergiftig",
+                    "giftig"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "giv",
+                    "geef",
+                    "vergiftag",
+                    "vergeeftag",
+                    "geeftag"
+                ]
             }
         },
         {
@@ -96,10 +128,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "mathata",
-                    "mathata"
+                    "krisis",
+                    "krisisse"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "krises",
+                    "krisus",
+                    "kruses",
+                    "krusis"
+                ]
             }
         },
         {
@@ -118,12 +155,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "bothata",
-                    "neelana ka bothata",
-                    "tshwenya",
-                    "go imetswe"
+                    "moeilikheid"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "moelikheid",
+                    "moeilikgeit",
+                    "moelikgeit"
+                ]
             }
         },
         {
@@ -140,17 +178,19 @@
             },
             "Translation": {
                 "keywords": [
-                    "motswasetlhabelo",
-                    "salwa morago"
+                    "slagoffer"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "slag offer",
+                    "slagover",
+                    "slag over"
+                ]
             }
         },
         {
             "English": {
                 "keywords": [
                     "emergency",
-                    "SOS",
                     "911"
                 ],
                 "mispellings": [
@@ -161,9 +201,18 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshoganyetso"
+                    "noodgeval",
+                    "911",
+                    "nood"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "nootgeval",
+                    "noot",
+                    "noot geval",
+                    "noodgefal",
+                    "nootgefal",
+                    "noot gefal"
+                ]
             }
         },
         {
@@ -181,11 +230,16 @@
             },
             "Translation": {
                 "keywords": [
-                    "kotsi",
-                    "kotsi",
-                    "mo kotsing"
+                    "gevaar",
+                    "gevaarlik",
+                    "gevaarlike"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "gevar",
+                    "gefaar",
+                    "gefaarlik",
+                    "gefaarlike"
+                ]
             }
         },
         {
@@ -202,9 +256,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "go tsomana"
+                    "bekruip",
+                    "afloer",
+                    "bekruiper",
+                    "afloerder"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "bekryp",
+                    "avloer",
+                    "bekryper",
+                    "avloerder"
+                ]
             }
         },
         {
@@ -223,11 +285,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "latela",
-                    "go latela",
-                    "latetse"
+                    "volg",
+                    "agtervolg",
+                    "jaag"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "folg",
+                    "agterfolg",
+                    "agter volg",
+                    "agter folg",
+                    "jag"
+                ]
             }
         },
         {
@@ -241,11 +309,18 @@
             },
             "Translation": {
                 "keywords": [
-                    "sokola",
-                    "go sokola",
-                    "sokotse"
+                    "ly",
+                    "swaarkry",
+                    "kry swaar"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "lei",
+                    "lui",
+                    "swarkry",
+                    "swaar kry",
+                    "swaar krei",
+                    "swar krei"
+                ]
             }
         },
         {
@@ -259,10 +334,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "fitlha",
-                    "go fitlha"
+                    "wegkruip",
+                    "kruip weg"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "wegkryp",
+                    "kryp weg",
+                    "weg kryp",
+                    "weg kruip"
+                ]
             }
         }
     ],
@@ -282,11 +362,19 @@
             },
             "Translation": {
                 "keywords": [
-                    "tlhatsa",
-                    "tlhatsitse",
-                    "go tlhatsa"
+                    "opgooi",
+                    "gooi op",
+                    "braak",
+                    "braking"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "opgoei",
+                    "op gooi",
+                    "goei op",
+                    "kots",
+                    "katte skiet",
+                    "skiet katte"
+                ]
             }
         },
         {
@@ -300,11 +388,18 @@
             },
             "Translation": {
                 "keywords": [
-                    "kgwa",
-                    "go kgwa",
-                    "kgwile"
+                    "opbring",
+                    "bring op",
+                    "vomeer",
+                    "naar"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "op bring",
+                    "opbreng",
+                    "obring",
+                    "breng op",
+                    "fomeer"
+                ]
             }
         },
         {
@@ -322,10 +417,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "bolwetse",
-                    "malwetse"
+                    "siekte",
+                    "siektes",
+                    "siek"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "sik",
+                    "sikte",
+                    "siktes"
+                ]
             }
         },
         {
@@ -342,11 +442,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "lwala",
-                    "bolwetse",
-                    "lwala"
+                    "siek",
+                    "siekte",
+                    "siektes"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "sik",
+                    "sikte",
+                    "siktes"
+                ]
             }
         },
         {
@@ -364,11 +468,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "lwala",
-                    "bolwetse",
-                    "malwetse"
+                    "siek",
+                    "siekte",
+                    "siektes"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "sik",
+                    "sikte",
+                    "siktes"
+                ]
             }
         },
         {
@@ -385,10 +493,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "itekanela",
-                    "itekanetse"
+                    "gesond",
+                    "gesondheid",
+                    "gesonde"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "gesont",
+                    "gessont",
+                    "gessond"
+                ]
             }
         },
         {
@@ -404,10 +517,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "bookelo",
-                    "tliniki"
+                    "hospitaal",
+                    "kliniek"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "hopsitaal",
+                    "hopitaal",
+                    "hospital",
+                    "klinik",
+                    "klinniek",
+                    "klinnik"
+                ]
             }
         },
         {
@@ -423,9 +543,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "go fetelwa"
+                    "miskraam"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "mis kraam",
+                    "meskraam",
+                    "muskraam",
+                    "misskraam"
+                ]
             }
         },
         {
@@ -443,11 +568,18 @@
             },
             "Translation": {
                 "keywords": [
-                    "imilwe",
-                    "boimana",
-                    "imile"
+                    "swanger",
+                    "swangerskap",
+                    "verwag",
+                    "verwagtend"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "swaner",
+                    "swanner",
+                    "swannerskap",
+                    "swanerskap",
+                    "vewag"
+                ]
             }
         },
         {
@@ -465,12 +597,19 @@
             },
             "Translation": {
                 "keywords": [
-                    "ntsha mpa",
-                    "ntsha mpa",
-                    "ntshitse mpa",
-                    "go ntsha mpa"
+                    "aborsie",
+                    "aborteer",
+                    "kom af",
+                    "afkom"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "abborsie",
+                    "abborteer",
+                    "geabborteer",
+                    "afgekom",
+                    "avkom",
+                    "af gekom"
+                ]
             }
         },
         {
@@ -481,6 +620,20 @@
                     "COVID-19"
                 ],
                 "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "COVID",
+                    "COVID19",
+                    "COVID-19",
+                    "Corona"
+                ],
+                "mispellings": [
+                    "COVID 19",
+                    "Corrona",
+                    "Corronna",
+                    "Coronna"
+                ]
             }
         }
     ],
@@ -500,26 +653,48 @@
             },
             "Translation": {
                 "keywords": [
-                    "ketsaetsego",
-                    "etsaetsega"
+                    "angs",
+                    "angstig",
+                    "angstigheid",
+                    "ontsteld"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "angstag",
+                    "angstagheid",
+                    "angstageit",
+                    "onsteld",
+                    "onstelt",
+                    "ontstelt"
+                ]
             }
         },
         {
             "English": {
-                "keywords": [
-                    "despression",
-                    "despressive",
-                    "depressed"
-                ],
-                "mispellings": []
-            },
+        "keywords": [
+          "depression",
+          "depressive",
+          "depressed"
+        ],
+        "mispellings": [
+		  "despression",
+          "despressive",
+          "despressed"
+		]
+      },
             "Translation": {
                 "keywords": [
-                    "gateletswe ke maikutlo"
+                    "depressie",
+                    "depressief",
+                    "terneergedruk",
+                    "neerslagtig"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "depresie",
+                    "depresief",
+                    "deppresie",
+                    "teneergedruk",
+                    "teneergedrik"
+                ]
             }
         },
         {
@@ -536,9 +711,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "bothata"
+                    "ongesteldheid",
+                    "ongesteld",
+                    "kwaal",
+                    "voel nie lekker"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "ongesteltheid",
+                    "ongestelt",
+                    "voel nie leker",
+                    "voel nie leke"
+                ]
             }
         },
         {
@@ -550,9 +733,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "teraphi"
+                    "terapie"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "terrapie",
+                    "terrappie",
+                    "terappie",
+                    "terepie",
+                    "terrepie"
+                ]
             }
         },
         {
@@ -564,9 +753,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "mosaekholoji"
+                    "sielkundige",
+                    "sielkundig"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "sielkindig",
+                    "sielkindige"
+                ]
             }
         },
         {
@@ -583,10 +776,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "go ipolaya",
-                    "kakanyo go ipolaya"
+                    "selfdood",
+                    "selfmoord",
+                    "selfmoorde"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "self dood",
+                    "self doot",
+                    "selfmoort",
+                    "self moord",
+                    "self moort"
+                ]
             }
         },
         {
@@ -603,9 +803,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "imetswe ke mathata"
+                    "stres",
+                    "gestres"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "stress",
+                    "gestress",
+                    "uitgestres",
+                    "uitgestress"
+                ]
             }
         },
         {
@@ -617,6 +823,20 @@
                 "mispellings": [
                     "destressed",
                     "destresss"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "nood",
+                    "kommer",
+                    "bekommerd",
+                    "bekommernis"
+                ],
+                "mispellings": [
+                    "noot",
+                    "bekomerd",
+                    "bekomert",
+                    "bekomernis"
                 ]
             }
         },
@@ -634,10 +854,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "hutsafetse",
-                    "hutsafaditswe"
+                    "hartseer",
+                    "bedroef",
+                    "treurig"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "hart seer",
+                    "hardseer",
+                    "hard seer",
+                    "af",
+                    "trerig"
+                ]
             }
         },
         {
@@ -653,10 +880,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshoga",
-                    "tshogile"
+                    "bang",
+                    "bang maak"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "bangmaak",
+                    "ban",
+                    "banmaak"
+                ]
             }
         },
         {
@@ -670,9 +901,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshaba"
+                    "bang",
+                    "bang maak"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "bangmaak",
+                    "ban",
+                    "banmaak"
+                ]
             }
         },
         {
@@ -686,9 +922,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshwenyega"
+                    "bekommerd",
+                    "bekommernis"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "bekomerd",
+                    "bekomert",
+                    "bekomernis"
+                ]
             }
         },
         {
@@ -704,9 +945,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshabo"
+                    "vrees",
+                    "bevrees"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "frees",
+                    "befrees"
+                ]
             }
         },
         {
@@ -720,6 +965,19 @@
                     "panik",
                     "paniked",
                     "paniking"
+                ]
+            },
+            "Translation": {
+                "keywords": [
+                    "paniek",
+                    "paniekerig"
+                ],
+                "mispellings": [
+                    "panik",
+                    "panikerig",
+                    "paniekerag",
+                    "panikkerig",
+                    "panikkerag"
                 ]
             }
         },
@@ -735,25 +993,39 @@
             },
             "Translation": {
                 "keywords": [
-                    "tsenwa"
+                    "mal"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "mall",
+                    "maal",
+                    "van sy kop af",
+                    "van haar kop af",
+                    "van my kop af"
+                ]
             }
         },
         {
             "English": {
                 "keywords": [
-                    "greif"
+                    "grief"
                 ],
                 "mispellings": [
-                    "grief",
+                    "greif",
                     "griev"
                 ]
             },
             "Translation": {
-                "keywords": [],
+                "keywords": [
+                    "bedroef",
+                    "droefheid",
+                    "verdriet",
+                    "smart"
+                ],
                 "mispellings": [
-                    "kutlobotlhoko"
+                    "bedroev",
+                    "droeveit",
+                    "verdrit",
+                    "smard"
                 ]
             }
         }
@@ -774,11 +1046,18 @@
             },
             "Translation": {
                 "keywords": [
-                    "molelo",
-                    "molelo wa naga"
+                    "brand",
+                    "vuur",
+                    "afbrand",
+                    "brand af"
                 ],
                 "mispellings": [
-                    "shele"
+                    "brant",
+                    "fuur",
+                    "vier",
+                    "fier",
+                    "afbrant",
+                    "brant af"
                 ]
             }
         },
@@ -798,12 +1077,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "thoromo",
-                    "theogelelo",
-                    "wa"
+                    "aardbewing",
+                    "grondstorting",
+                    "grondverskuiwing"
                 ],
                 "mispellings": [
-                    "roroma"
+                    "aardbeewing",
+                    "aartbewing",
+                    "aartbeewing"
                 ]
             }
         },
@@ -823,9 +1104,16 @@
             },
             "Translation": {
                 "keywords": [
-                    "morwalela"
+                    "vloed",
+                    "oorvloei",
+                    "stormwater"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "vloet",
+                    "oor vloei",
+                    "storm water",
+                    "storemwater"
+                ]
             }
         },
         {
@@ -841,10 +1129,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "mosi",
-                    "go mosi"
+                    "rook",
+                    "gerook",
+                    "rokerig"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "rookerig"
+                ]
             }
         },
         {
@@ -864,16 +1155,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "thaefuni",
-                    "ditsuatsue",
-                    "kgwanyape",
-                    "ledimo"
+                    "tifoon",
+                    "orkaan",
+                    "tornado",
+                    "sikloon"
                 ],
                 "mispellings": [
-                    "sefefo",
-                    "pula",
-                    "metsi",
-                    "go sefefo"
+                    "storm",
+                    "re\u00ebn",
+                    "water",
+                    "stormagtig",
+                    "storem"
                 ]
             }
         },
@@ -890,10 +1182,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "dikomelelo",
-                    "omile"
+                    "droogte",
+                    "droog"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "drogte",
+                    "droogt",
+                    "drogt"
+                ]
             }
         },
         {
@@ -909,11 +1205,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "thunyo ya lekgwamolelo"
+                    "vulkaanuitbarsting",
+                    "vulkaan",
+                    "lawa"
                 ],
                 "mispellings": [
-                    "molelo",
-                    "bolelo"
+                    "vulkan",
+                    "vulkanuitbarsting",
+                    "lava"
                 ]
             }
         },
@@ -930,12 +1229,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "phefo",
-                    "thubego",
-                    "go phefo"
+                    "wind",
+                    "rukwind",
+                    "winderig"
                 ],
                 "mispellings": [
-                    "mowa"
+                    "wint",
+                    "rukwint",
+                    "rikwind",
+                    "rikwint"
                 ]
             }
         }
@@ -956,11 +1258,19 @@
             },
             "Translation": {
                 "keywords": [
-                    "itaya",
-                    "go itaya",
-                    "betsa"
+                    "slaan",
+                    "geslaan",
+                    "klap",
+                    "geklap"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "slaat",
+                    "slat",
+                    "donder",
+                    "gedonder",
+                    "donner",
+                    "gedonner"
+                ]
             }
         },
         {
@@ -979,11 +1289,19 @@
             },
             "Translation": {
                 "keywords": [
-                    "betsa",
-                    "go betsa",
-                    "itaya"
+                    "slaan",
+                    "geslaan",
+                    "klap",
+                    "geklap"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "slaat",
+                    "slat",
+                    "geslat",
+                    "geslaat",
+                    "moer",
+                    "gemoer"
+                ]
             }
         },
         {
@@ -1002,12 +1320,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshotlakako",
-                    "tshotlo",
-                    "go sotla",
-                    "sotliwa"
+                    "mishandel",
+                    "mishandeling"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "misshandel",
+                    "misshandeling",
+                    "mishandling"
+                ]
             }
         },
         {
@@ -1023,10 +1343,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "dikgoka",
-                    "tirisodikgoka"
+                    "gewelddadig",
+                    "geweld"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "geweldadig",
+                    "gewelt",
+                    "geweldadag"
+                ]
             }
         },
         {
@@ -1044,13 +1368,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "botlhoko",
-                    "go botlhoko",
-                    "ditlhabi",
-                    "go nna le ditlhabi"
+                    "pyn",
+                    "seer",
+                    "pynlik",
+                    "pyne"
                 ],
                 "mispellings": [
-                    "pene"
+                    "pein",
+                    "peinlik",
+                    "peine",
+                    "puin",
+                    "puine"
                 ]
             }
         },
@@ -1069,11 +1397,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "madi",
-                    "go tswa madi",
-                    "tswile madi"
+                    "bloed",
+                    "bloei",
+                    "gebloei"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "bloet",
+                    "blut",
+                    "blud"
+                ]
             }
         },
         {
@@ -1091,11 +1423,18 @@
             },
             "Translation": {
                 "keywords": [
-                    "mengwapo",
-                    "go ngapega",
-                    "ngapega"
+                    "kneus",
+                    "kneusing",
+                    "gekneus",
+                    "kneusplek"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "knees",
+                    "kneesing",
+                    "geknees",
+                    "kneesplek",
+                    "kneesplekke"
+                ]
             }
         },
         {
@@ -1112,12 +1451,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "kgopisa",
-                    "go kgopisa",
-                    "utlwisa"
+                    "seer",
+                    "seermaak",
+                    "seergemaak"
                 ],
                 "mispellings": [
-                    "kgopisegile"
+                    "seer maak",
+                    "seer gemaak"
                 ]
             }
         },
@@ -1134,10 +1474,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "botlhoko",
-                    "go botlhoko"
+                    "pyn",
+                    "seer",
+                    "pynlik"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "pein",
+                    "peinlik"
+                ]
             }
         },
         {
@@ -1152,10 +1496,18 @@
             },
             "Translation": {
                 "keywords": [
-                    "kgobalo",
-                    "gobetse"
+                    "besering",
+                    "beseer",
+                    "beserings"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "beseering",
+                    "beseerings",
+                    "beserang",
+                    "beseerang",
+                    "beserangs",
+                    "beseerangs"
+                ]
             }
         },
         {
@@ -1170,10 +1522,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "kgaola",
-                    "go kgaola"
+                    "sny",
+                    "gesny"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "snei",
+                    "gesnei"
+                ]
             }
         },
         {
@@ -1193,12 +1548,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "kotsi",
-                    "go tlhola kotsi",
-                    "go kotsi",
-                    "mo kotsing"
+                    "leed",
+                    "leed aandoen",
+                    "leed aangedoen",
+                    "skadelik"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "leet",
+                    "skaadelik"
+                ]
             }
         },
         {
@@ -1217,12 +1575,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "tlelapa",
-                    "tlepapile",
-                    "go tlelapa"
+                    "klap",
+                    "geklap"
                 ],
                 "mispellings": [
-                    "thelela"
+                    "klaap",
+                    "geklaap"
                 ]
             }
         },
@@ -1238,12 +1596,19 @@
             },
             "Translation": {
                 "keywords": [
-                    "lebole",
-                    "iteile ka lebole",
-                    "go itaya ka mabole",
-                    "mabole"
+                    "slaan",
+                    "vuisslaan",
+                    "vuis",
+                    "vuiste"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "veisslaan",
+                    "veis",
+                    "veiste",
+                    "vys",
+                    "vyste",
+                    "vysslaan"
+                ]
             }
         },
         {
@@ -1262,12 +1627,16 @@
             },
             "Translation": {
                 "keywords": [
-                    "bolaya",
-                    "go bolaya",
-                    "bolaile",
-                    "bolaya"
+                    "doodmaak",
+                    "maak dood",
+                    "doodgemaak"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "dootmaak",
+                    "doot maak",
+                    "dood maak",
+                    "dootgemaak"
+                ]
             }
         },
         {
@@ -1286,12 +1655,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "bolaya",
-                    "mmolai",
-                    "go bolaya",
-                    "bolaile"
+                    "moord",
+                    "moordenaar",
+                    "moor",
+                    "vermoor"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "moort",
+                    "moordnaar",
+                    "moordenar",
+                    "vemoor"
+                ]
             }
         },
         {
@@ -1309,11 +1683,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "thubaganya",
-                    "go thubaganya",
-                    "thubagane"
+                    "knal",
+                    "geweerskoot",
+                    "skoot"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "skood",
+                    "geweerskood"
+                ]
             }
         },
         {
@@ -1329,11 +1706,11 @@
             },
             "Translation": {
                 "keywords": [
-                    "futswela"
+                    "blaas"
                 ],
                 "mispellings": [
-                    "fa tlase",
-                    "bora"
+                    "blas",
+                    "belaas"
                 ]
             }
         },
@@ -1349,11 +1726,14 @@
             },
             "Translation": {
                 "keywords": [
-                    "kheine"
+                    "rottang",
+                    "lat"
                 ],
                 "mispellings": [
-                    "kota",
-                    "kgona"
+                    "rotang",
+                    "stok",
+                    "rottan",
+                    "rotan"
                 ]
             }
         },
@@ -1369,9 +1749,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "lebanta"
+                    "belt"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "gordel",
+                    "band",
+                    "beld"
+                ]
             }
         },
         {
@@ -1389,11 +1773,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "tlhaba",
-                    "go tlhaba",
-                    "tlhabile"
+                    "steek",
+                    "messteek",
+                    "gesteek"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "stiek",
+                    "gestiek",
+                    "mes steek"
+                ]
             }
         },
         {
@@ -1411,11 +1799,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "goa",
-                    "go goa",
-                    "goile"
+                    "skree",
+                    "geskree",
+                    "skreeu",
+                    "geskreeu"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "skrie",
+                    "geskrie"
+                ]
             }
         },
         {
@@ -1432,12 +1824,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "kgorometsa",
-                    "go kgorometsa",
-                    "kgoromeditse"
+                    "stoot",
+                    "gestoot"
                 ],
                 "mispellings": [
-                    "boladu"
+                    "stood",
+                    "gestood"
                 ]
             }
         },
@@ -1456,11 +1848,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "kgorometsa",
-                    "go kgorometsa",
-                    "kgoromeditse"
+                    "stamp",
+                    "gestamp"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "stam",
+                    "gestam"
+                ]
             }
         },
         {
@@ -1478,11 +1872,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "raga",
-                    "go raga",
-                    "ragile"
+                    "skop",
+                    "geskop"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "gaskop"
+                ]
             }
         },
         {
@@ -1500,10 +1895,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "itaya",
-                    "go itaya"
+                    "slaan",
+                    "geslaan"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "slaat",
+                    "slat",
+                    "geslat",
+                    "geslaat"
+                ]
             }
         },
         {
@@ -1520,11 +1920,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "tlhokofaditswe",
-                    "tlhokofaditswe"
+                    "martel",
+                    "gemartel",
+                    "marteling"
                 ],
                 "mispellings": [
-                    "tlhokofatsa"
+                    "martil",
+                    "gemartil",
+                    "marteleng",
+                    "martiling"
                 ]
             }
         },
@@ -1543,11 +1947,16 @@
             },
             "Translation": {
                 "keywords": [
-                    "konopa",
-                    "go konopa",
-                    "konopa"
+                    "gooi",
+                    "gegooi",
+                    "neergegooi"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "goei",
+                    "gegoei",
+                    "neergegoei",
+                    "neer gegoei"
+                ]
             }
         },
         {
@@ -1566,11 +1975,16 @@
             },
             "Translation": {
                 "keywords": [
-                    "petelelo",
-                    "go betelela",
-                    "mmeteledi"
+                    "verkrag",
+                    "verkragting",
+                    "verkragter",
+                    "onteer"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "vekrag",
+                    "vekragting",
+                    "vekragter"
+                ]
             }
         },
         {
@@ -1588,11 +2002,12 @@
             },
             "Translation": {
                 "keywords": [
-                    "nyatsa",
-                    "lenyatso",
-                    "go nyatsa"
+                    "skend",
+                    "skending"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "skendang"
+                ]
             }
         },
         {
@@ -1611,11 +2026,13 @@
             },
             "Translation": {
                 "keywords": [
-                    "thobalano",
-                    "bong"
+                    "seks",
+                    "seksueel",
+                    "seksuele"
                 ],
                 "mispellings": [
-                    "mokwalo wa thobalano"
+                    "seksieel",
+                    "seksiele"
                 ]
             }
         },
@@ -1633,11 +2050,16 @@
             },
             "Translation": {
                 "keywords": [
-                    "gatelale",
-                    "gateletse",
-                    "go gatelela"
+                    "dwing",
+                    "dwang",
+                    "gedwing",
+                    "forseer"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "ding",
+                    "dang",
+                    "fors"
+                ]
             }
         },
         {
@@ -1655,11 +2077,15 @@
             },
             "Translation": {
                 "keywords": [
-                    "gatelela",
-                    "gateletswe",
-                    "go gatelela"
+                    "druk",
+                    "druk uitoefen",
+                    "druk uitgeoefen",
+                    "gedruk"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "drik",
+                    "gedrik"
+                ]
             }
         },
         {
@@ -1676,10 +2102,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "kgokgoetsa",
-                    "kgokgoediwa"
+                    "dwing",
+                    "dwang",
+                    "gedwing",
+                    "forseer"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "ding",
+                    "dang",
+                    "fors",
+                    "afdwing"
+                ]
             }
         },
         {
@@ -1696,11 +2129,16 @@
             },
             "Translation": {
                 "keywords": [
-                    "maitsholomabe",
-                    "ga go maleba",
-                    "ga go amogelege"
+                    "wangedrag",
+                    "onvanpas",
+                    "onaanvaarbaar",
+                    "onvanpaste"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "onaanvaarbare",
+                    "onvaarbaar",
+                    "onvaarbare"
+                ]
             }
         },
         {
@@ -1716,11 +2154,17 @@
             },
             "Translation": {
                 "keywords": [
-                    "tshosetso",
-                    "go latelela",
-                    "motlatlapi"
+                    "teistering",
+                    "teister",
+                    "molesteer",
+                    "pleeg"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "tyster",
+                    "mollesteer",
+                    "getyster",
+                    "gemollesteer"
+                ]
             }
         },
         {
@@ -1735,11 +2179,46 @@
             },
             "Translation": {
                 "keywords": [
-                    "bona phoso",
-                    "go bona phoso"
+                    "blameer"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "blammeer",
+                    "blammer"
+                ]
             }
         }
-    ]
+    ],
+	"Help":[
+	{
+            "English": {
+                "keywords": [
+                    "Help"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "help",
+					"hulp"
+                ],
+				"mispellings": []
+            }
+        }
+	],
+	"SOS":[
+	{
+            "English": {
+                "keywords": [
+                    "SOS"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "keywords": [
+                    "SOS" 
+                ],
+				"mispellings": []
+            }
+        }
+	]
 }
